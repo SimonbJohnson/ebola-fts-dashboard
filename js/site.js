@@ -18,7 +18,7 @@ var fundingall = cf.groupAll().reduceSum(function(d) {return d.Funding;});
 var all = cf.groupAll();
 
 funder_chart.width(330).height(550)
-        .margins({top: 0, left: 10, right: 40, bottom: 20})
+        .margins({top: 0, left: 10, right: 40, bottom: 40})
         .dimension(cf.funder)
         .group(funder)
         .elasticX(true)
@@ -42,7 +42,7 @@ funder_chart.width(330).height(550)
         .xAxis().ticks(3);
 
 organisation_chart.width(330).height(550)
-        .margins({top: 0, left: 10, right: 40, bottom: 20})
+        .margins({top: 0, left: 10, right: 40, bottom: 40})
         .dimension(cf.organisation)
         .group(organisation)
         .elasticX(true)
@@ -104,7 +104,25 @@ dc.dataCount("#count-info")
 	.group(all);
         
 
-dc.renderAll();  
+dc.renderAll();
+
+var g = d3.selectAll("#organisation").select("svg").append("g");
+    
+    g.append("text")
+        .attr("class", "x-axis-label")
+        .attr("text-anchor", "middle")
+        .attr("x", 160)
+        .attr("y", 542)
+        .text("US Dollars");
+
+var g = d3.selectAll("#funder").select("svg").append("g");
+    
+    g.append("text")
+        .attr("class", "x-axis-label")
+        .attr("text-anchor", "middle")
+        .attr("x", 160)
+        .attr("y", 542)
+        .text("US Dollars");
 
 function formatTitle(key, value){
     var v;

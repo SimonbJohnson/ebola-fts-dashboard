@@ -4,7 +4,7 @@ var data = [
     "Channel":"World Health Organization",
     "Description":"(Region) Ebola emergency assistance grant to strengthen health systems (remaining undisbursed amount of $60 million 2014-2016 grant to the West Africa region)",
     "Funding":17400000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -740,7 +740,7 @@ var data = [
     "Channel":"Various Recipients (details not yet provided)",
     "Description":"(region) $20 million commitment made at the Defeating Ebola Conference in London on 2 October. CIFF’s $20 million commitment is the biggest it has ever made to a humanitarian crisis.  It is based on an assessment that the Ebola outbreak poses an unprecedented threat that can be stopped with quick, effective and coordinated action.",
     "Funding":12500000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -932,7 +932,7 @@ var data = [
     "Channel":"World Health Organization",
     "Description":"(Mali) to support WHO’s preparedness plan in Mali\n \n",
     "Funding":800000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Mali"
   },
   {
@@ -1052,7 +1052,7 @@ var data = [
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
     "Description":"(Region) to provide humanitarian assistance for fight against the Ebola epidemic\n\n",
     "Funding":374332,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1268,7 +1268,7 @@ var data = [
     "Channel":"Various Recipients (details not yet provided)",
     "Description":"(Region) To match donations on a two-to-one basis, up to $5 million, made via Network for Good, with the goal of raising a total of $7.5 million.  These will be for International Rescue Committee, Medecins Sans Frontieres, Partners in Health, and Save the Children (via donor advised fund Network for Good)",
     "Funding":5000000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1284,7 +1284,7 @@ var data = [
     "Channel":"Canadian Red Cross Society",
     "Description":"(Region) A donation match of up to $50,000 to the Canadian Red Cross in support of their efforts to combat the spread of the deadly Ebola virus and provide emergency response operations in the affected countries. The donation will benefit the West Africa Ebola Fund with funds raised through the HBC Foundation.",
     "Funding":50000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1308,7 +1308,7 @@ var data = [
     "Channel":"Médecins sans Frontières",
     "Description":"(region) support for patients and their families in Guinea, Liberia, Nigeria, Senegal, Sierra Leone and the Democratic Republic of the Congo. ",
     "Funding":6587615,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1316,7 +1316,7 @@ var data = [
     "Channel":"Save the Children ",
     "Description":"(region) train more healthcare staff in Liberia and support children whose parents are in clinical isolation",
     "Funding":131751,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1460,7 +1460,7 @@ var data = [
     "Channel":"Various Recipients (details not yet provided)",
     "Description":"(Region) Ebola response (part of $40 million additional support announced on October 3)",
     "Funding":18000000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1628,7 +1628,7 @@ var data = [
     "Channel":"German Red Cross",
     "Description":"Fight against Ebola",
     "Funding":329381,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1668,7 +1668,7 @@ var data = [
     "Channel":"Médecins sans Frontières",
     "Description":"(Region) Humanitarian assistance",
     "Funding":1317523,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1828,7 +1828,7 @@ var data = [
     "Channel":"United Nations Children's Fund",
     "Description":"(Liberia) air lift 50,000 protection kits into Liberia to help prevent the spread of the virus among caretakers and family members (in coordination with UPS)",
     "Funding":3600000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Liberia"
   },
   {
@@ -1836,7 +1836,7 @@ var data = [
     "Channel":"Ebola Response Multi-Partner Trust Fund",
     "Description":"(Region) Ebola Response Multi-Partner Trust Fund",
     "Funding":2000000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -1940,7 +1940,7 @@ var data = [
     "Channel":"Save the Children ",
     "Description":"(Region) Xerox has pledged a donation to Save the Children for its work with families in West Africa who are dealing with the virus.",
     "Funding":100000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -2156,7 +2156,7 @@ var data = [
     "Channel":"Médecins sans Frontières",
     "Description":"(Region) Emergency relief grant to the international non-profit organization Doctors Without Borders, to help combat the Ebola outbreak in West Africa; Moreover, part of the grant will be used to provide support for the Sudanese refugee camps in Ethiopia,\n",
     "Funding":500000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -2380,7 +2380,7 @@ var data = [
     "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa ",
     "Funding":4300000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -3012,7 +3012,7 @@ var data = [
     "Channel":"International Medical Corps",
     "Description":"(region) To help fight the Ebola crisis in the West African countries of Sierra Leone and Liberia",
     "Funding":150000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -3108,7 +3108,7 @@ var data = [
     "Channel":"Various Recipients (details not yet provided)",
     "Description":"(region) additional new grant to the Ebola Emergency Response Project (to be channeled through the Governments of Guinea, Liberia and Sierra Leone)",
     "Funding":112500000,
-    "Committed":"Uncommitted ",
+    "Committed":"Pledged",
     "Area":"Region"
   },
   {

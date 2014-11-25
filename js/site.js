@@ -87,10 +87,10 @@ where_chart.width(260).height(200)
 amount_chart.width(260).height(200)
         .dimension(cf.amount)
         .group(amount)
-        .innerRadius(70)
         .colors(['#4CAF50','#FFD600'])
         .colorDomain([0,1])
         .colorAccessor(function(d, i){return i;})
+        .filter(["Committed"])
         .title(function(d){
             return formatTitle(d.key,d.value);
             });

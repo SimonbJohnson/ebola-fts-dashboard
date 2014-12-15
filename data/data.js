@@ -10,6 +10,30 @@ var data = [
   {
     "Donor":"African Development Bank",
     "Channel":"World Health Organization",
+    "Description":"(Region) Ebola emergency assistance grant to strengthen health systems (part of $60 million 2014-2016 grant to the West Africa region)",
+    "Funding":38600000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"African Development Bank",
+    "Channel":"World Health Organization",
+    "Description":"(Guinea) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"African Development Bank",
+    "Channel":"World Health Organization",
+    "Description":"(Region) to prevent and contain the spread of the Ebola epidemic in Guinea, Sierra Leone and Liberia",
+    "Funding":2766252,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"African Development Bank",
+    "Channel":"World Health Organization",
     "Description":"(Sierra Leone) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
     "Funding":1000000,
     "Committed":"Committed",
@@ -30,30 +54,6 @@ var data = [
     "Funding":1000000,
     "Committed":"Committed",
     "Area":"Nigeria"
-  },
-  {
-    "Donor":"African Development Bank",
-    "Channel":"World Health Organization",
-    "Description":"(Region) to prevent and contain the spread of the Ebola epidemic in Guinea, Sierra Leone and Liberia",
-    "Funding":2766252,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"African Development Bank",
-    "Channel":"World Health Organization",
-    "Description":"(Region) Ebola emergency assistance grant to strengthen health systems (part of $60 million 2014-2016 grant to the West Africa region)",
-    "Funding":38600000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"African Development Bank",
-    "Channel":"World Health Organization",
-    "Description":"(Guinea) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
-    "Funding":1000000,
-    "Committed":"Committed",
-    "Area":"Guinea"
   },
   {
     "Donor":"African Union",
@@ -82,8 +82,16 @@ var data = [
   {
     "Donor":"Allocation of unearmarked funds by UNDP",
     "Channel":"United Nations Children's Fund",
+    "Description":"(Niger) Response to Ebola outbreak (through UNDP/USA)",
+    "Funding":161918,
+    "Committed":"Committed",
+    "Area":"Niger"
+  },
+  {
+    "Donor":"Allocation of unearmarked funds by UNDP",
+    "Channel":"United Nations Children's Fund",
     "Description":"(Guinea) Emergency Aid in response to the Ebola hemorrhagic fever outbreak (through UNDP/USA)\n",
-    "Funding":181949,
+    "Funding":181939,
     "Committed":"Committed",
     "Area":"Guinea"
   },
@@ -94,6 +102,30 @@ var data = [
     "Funding":17688,
     "Committed":"Committed",
     "Area":"Malawi"
+  },
+  {
+    "Donor":"Allocation of unearmarked funds by UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Emergency Aid in response to the Ebola hemorrhagic fever outbreak (through UNICEF/Guinea)\n",
+    "Funding":250000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Allocation of unearmarked funds by UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Response to Ebola outbreak (through UNICEF/Thailand)",
+    "Funding":389441,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Allocation of unearmarked funds by UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Response to Ebola outbreak (through UNICEF/Chile)",
+    "Funding":502,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Allocation of unearmarked funds by UNICEF",
@@ -114,22 +146,6 @@ var data = [
   {
     "Donor":"Allocation of unearmarked funds by UNICEF",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) Response to Ebola outbreak (through UNICEF/Sierra Leone)",
-    "Funding":50348,
-    "Committed":"Committed",
-    "Area":"Sierra Leone"
-  },
-  {
-    "Donor":"Allocation of unearmarked funds by UNICEF",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Emergency Aid in response to the Ebola hemorrhagic fever outbreak (through UNICEF/Guinea)\n",
-    "Funding":250000,
-    "Committed":"Committed",
-    "Area":"Guinea"
-  },
-  {
-    "Donor":"Allocation of unearmarked funds by UNICEF",
-    "Channel":"United Nations Children's Fund",
     "Description":"(Sierra Leone) Ebola Response (through UNICEF/India)",
     "Funding":45900,
     "Committed":"Committed",
@@ -138,10 +154,10 @@ var data = [
   {
     "Donor":"Allocation of unearmarked funds by UNICEF",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Response to Ebola outbreak (through UNICEF/Thailand)",
-    "Funding":125,
+    "Description":"(Sierra Leone) Response to Ebola outbreak (through UNICEF/Sierra Leone)",
+    "Funding":50348,
     "Committed":"Committed",
-    "Area":"Region"
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Allocation of unearmarked funds by WFP",
@@ -194,7 +210,7 @@ var data = [
   {
     "Donor":"Australia",
     "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa ",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in West Africa ",
     "Funding":466800,
     "Committed":"Committed",
     "Area":"Region"
@@ -210,7 +226,7 @@ var data = [
   {
     "Donor":"Australia",
     "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in West Africa ",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa ",
     "Funding":466800,
     "Committed":"Committed",
     "Area":"Region"
@@ -235,7 +251,7 @@ var data = [
     "Donor":"Belgium",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
     "Description":"(Liberia) Contribuer à la réduction de la mortalité et de la morbidité provoquée par le virus Ebola au Liberia (NH/2014/08 - 3016237)",
-    "Funding":2541347,
+    "Funding":2541601,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -257,19 +273,19 @@ var data = [
   },
   {
     "Donor":"Bill and Melinda Gates Foundation",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Mali) to provide critical emergency support to populations affected by the Ebola Virus Disease Outbreak in West Africa (through US Fund for UNICEF)",
-    "Funding":162000,
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(REGION) Contribution",
+    "Funding":3000000,
     "Committed":"Committed",
-    "Area":"Mali"
+    "Area":"Region"
   },
   {
     "Donor":"Bill and Melinda Gates Foundation",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Senegal) to provide critical emergency support to populations affected by the Ebola Virus Disease Outbreak in West Africa (through US Fund for UNICEF)",
-    "Funding":54000,
+    "Channel":"International Medical Corps",
+    "Description":"(Liberia) Ebola response",
+    "Funding":1000000,
     "Committed":"Committed",
-    "Area":"Senegal"
+    "Area":"Liberia"
   },
   {
     "Donor":"Bill and Melinda Gates Foundation",
@@ -306,6 +322,22 @@ var data = [
   {
     "Donor":"Bill and Melinda Gates Foundation",
     "Channel":"United Nations Children's Fund",
+    "Description":"(Mali) to provide critical emergency support to populations affected by the Ebola Virus Disease Outbreak in West Africa (through US Fund for UNICEF)",
+    "Funding":162000,
+    "Committed":"Committed",
+    "Area":"Mali"
+  },
+  {
+    "Donor":"Bill and Melinda Gates Foundation",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Senegal) to provide critical emergency support to populations affected by the Ebola Virus Disease Outbreak in West Africa (through US Fund for UNICEF)",
+    "Funding":54000,
+    "Committed":"Committed",
+    "Area":"Senegal"
+  },
+  {
+    "Donor":"Bill and Melinda Gates Foundation",
+    "Channel":"United Nations Children's Fund",
     "Description":"(Region) to provide critical emergency support to populations affected by the Ebola Virus Disease Outbreak in West Africa (through US Fund for UNICEF)",
     "Funding":2000000,
     "Committed":"Committed",
@@ -318,6 +350,14 @@ var data = [
     "Funding":250000,
     "Committed":"Committed",
     "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Bill and Melinda Gates Foundation",
+    "Channel":"World Health Organization",
+    "Description":"(Region) Ebola Response - to improve surveillance, reporting, response and preparedness for the Ebola Virus Disease Outbreak in Nigeria\n",
+    "Funding":1400000,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Bill and Melinda Gates Foundation",
@@ -338,10 +378,42 @@ var data = [
   {
     "Donor":"Bill and Melinda Gates Foundation",
     "Channel":"World Health Organization",
-    "Description":"(Nigeria) Ebola Response - to improve surveillance, reporting, response and preparedness for the Ebola Virus Disease Outbreak in Nigeria\n",
-    "Funding":1400000,
+    "Description":"(REGION) Contributions",
+    "Funding":2985234,
     "Committed":"Committed",
-    "Area":"Nigeria"
+    "Area":"Region"
+  },
+  {
+    "Donor":"Brazil",
+    "Channel":"Ebola Response Multi-Partner Trust Fund",
+    "Description":"(Region) Ebola Response Multi-Partner Trust Fund ",
+    "Funding":602845,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Brazil",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Ebola Response",
+    "Funding":1740444,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Brazil",
+    "Channel":"World Health Organization",
+    "Description":"(Region) Ebola Response",
+    "Funding":4799257,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Brunei Darussalam",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":100000,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Canada",
@@ -350,6 +422,30 @@ var data = [
     "Funding":3568879,
     "Committed":"Committed",
     "Area":"Region"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Liberia) IFRC Emergency Appeal",
+    "Funding":63526,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Guinea) IFRC Emergency Appeal",
+    "Funding":104597,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Sierra Leone) IFRC Emergency Appeal",
+    "Funding":50502,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Canada",
@@ -386,26 +482,10 @@ var data = [
   {
     "Donor":"Canada",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Senegal) Senegal - IFRC Emergency Appeal\n",
-    "Funding":13441,
-    "Committed":"Committed",
-    "Area":"Senegal"
-  },
-  {
-    "Donor":"Canada",
-    "Channel":"International Federation of Red Cross and Red Crescent Societies",
     "Description":"(Gambia) Gambia - IFRC Emergency Appeal\n",
     "Funding":8961,
     "Committed":"Committed",
     "Area":"Gambia"
-  },
-  {
-    "Donor":"Canada",
-    "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Region) Health, Coordination, Preparedness (D001610)\n",
-    "Funding":3136201,
-    "Committed":"Committed",
-    "Area":"Region"
   },
   {
     "Donor":"Canada",
@@ -418,32 +498,16 @@ var data = [
   {
     "Donor":"Canada",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Guinea) IFRC Emergency Appeal",
-    "Funding":104597,
+    "Description":"(Senegal) Senegal - IFRC Emergency Appeal\n",
+    "Funding":13441,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Senegal"
   },
   {
     "Donor":"Canada",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Sierra Leone) IFRC Emergency Appeal",
-    "Funding":50502,
-    "Committed":"Committed",
-    "Area":"Sierra Leone"
-  },
-  {
-    "Donor":"Canada",
-    "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Liberia) IFRC Emergency Appeal",
-    "Funding":63526,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Canada",
-    "Channel":"Médecins sans Frontières",
-    "Description":"(Region) MSF Emergency Response to Ebola in Guinea, Sierra Leone, Liberia and region (D001306)\n",
-    "Funding":918274,
+    "Description":"(Region) Health, Coordination, Preparedness (D001610)\n",
+    "Funding":3136201,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -457,19 +521,11 @@ var data = [
   },
   {
     "Donor":"Canada",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Ebola Response",
-    "Funding":2854839,
+    "Channel":"Médecins sans Frontières",
+    "Description":"(Region) MSF Emergency Response to Ebola in Guinea, Sierra Leone, Liberia and region (D001306)\n",
+    "Funding":918274,
     "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Canada",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Response (D001611)",
-    "Funding":2854839,
-    "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Region"
   },
   {
     "Donor":"Canada",
@@ -486,6 +542,22 @@ var data = [
     "Funding":396507,
     "Committed":"Committed",
     "Area":"Mali"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Response (D001611)",
+    "Funding":2854839,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Ebola Response",
+    "Funding":2854839,
+    "Committed":"Committed",
+    "Area":"Liberia"
   },
   {
     "Donor":"Canada",
@@ -506,8 +578,32 @@ var data = [
   {
     "Donor":"Canada",
     "Channel":"World Health Organization",
-    "Description":"(Region) Guinea, Liberia and Sierra Leone through WHO EVD Outbreak Response \n ",
-    "Funding":182482,
+    "Description":"(Region) Ebola Response",
+    "Funding":3168044,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"World Health Organization",
+    "Description":"(Region) Ebola Response",
+    "Funding":918274,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"World Health Organization",
+    "Description":"(Region) Ebola Response (D001613)",
+    "Funding":12992832,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Canada",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO EVD Outbreak Response - Security ",
+    "Funding":1101928,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -538,16 +634,8 @@ var data = [
   {
     "Donor":"Canada",
     "Channel":"World Health Organization",
-    "Description":"(Region) Ebola Response (D001613)",
-    "Funding":12992832,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Canada",
-    "Channel":"World Health Organization",
-    "Description":"(Region) WHO EVD Outbreak Response - Security ",
-    "Funding":1101928,
+    "Description":"(Region) Guinea, Liberia and Sierra Leone through WHO EVD Outbreak Response \n ",
+    "Funding":182482,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -558,6 +646,30 @@ var data = [
     "Funding":31109,
     "Committed":"Committed",
     "Area":"Region"
+  },
+  {
+    "Donor":"Central Emergency Response Fund",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Ebola Rapid Response in Three Affected Counties",
+    "Funding":306335,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Central Emergency Response Fund",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Promouvoir et renforcer des comportements de prévention et de lutte contre la  fièvre hémorragique à virus  Ebola et soutenir les veuves et les orphelins causés par cette maladie",
+    "Funding":995549,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Central Emergency Response Fund",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Nigeria) Social Mobilization for Containment of the Ebola Virus Disease in Lagos",
+    "Funding":394866,
+    "Committed":"Committed",
+    "Area":"Nigeria"
   },
   {
     "Donor":"Central Emergency Response Fund",
@@ -578,34 +690,10 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Ebola Rapid Response in Three Affected Counties",
-    "Funding":306335,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Central Emergency Response Fund",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Nigeria) Social Mobilization for Containment of the Ebola Virus Disease in Lagos",
-    "Funding":394866,
-    "Committed":"Committed",
-    "Area":"Nigeria"
-  },
-  {
-    "Donor":"Central Emergency Response Fund",
-    "Channel":"United Nations Children's Fund",
     "Description":"(DRC) Riposte à l’épidémie de la Maladie virale Ébola dans la Province de l’Équateur, en RDC",
     "Funding":535508,
     "Committed":"Committed",
     "Area":"Drc"
-  },
-  {
-    "Donor":"Central Emergency Response Fund",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Promouvoir et renforcer des comportements de prévention et de lutte contre la  fièvre hémorragique à virus  Ebola et soutenir les veuves et les orphelins causés par cette maladie",
-    "Funding":995549,
-    "Committed":"Committed",
-    "Area":"Guinea"
   },
   {
     "Donor":"Central Emergency Response Fund",
@@ -634,24 +722,16 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Food Programme",
-    "Description":"(Guinea) Projet d’assistance alimentaire d’urgence en faveur des personnes affectées par l’épidémie EBOLA et particulièrement vulnérables à l’insécurité alimentaire en Guinée.",
-    "Funding":2612224,
+    "Description":"(Guinea) Special Operation (200760) Provision of Humanitarian Air Services in response to the Ebola Virus Disease Outbreak in West Africa",
+    "Funding":1265381,
     "Committed":"Committed",
     "Area":"Guinea"
   },
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Food Programme",
-    "Description":"(Liberia) Special Operation (200760) Provision of Humanitarian Air Services in response to the Ebola Virus Disease Outbreak in West Africa",
-    "Funding":1289524,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Central Emergency Response Fund",
-    "Channel":"World Food Programme",
-    "Description":"(Guinea) Special Operation (200760) Provision of Humanitarian Air Services in response to the Ebola Virus Disease Outbreak in West Africa",
-    "Funding":1265381,
+    "Description":"(Guinea) Projet d’assistance alimentaire d’urgence en faveur des personnes affectées par l’épidémie EBOLA et particulièrement vulnérables à l’insécurité alimentaire en Guinée.",
+    "Funding":2612224,
     "Committed":"Committed",
     "Area":"Guinea"
   },
@@ -666,10 +746,34 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Food Programme",
+    "Description":"(Liberia) Special Operation (200760) Provision of Humanitarian Air Services in response to the Ebola Virus Disease Outbreak in West Africa",
+    "Funding":1289524,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Central Emergency Response Fund",
+    "Channel":"World Food Programme",
     "Description":"(Sierra Leone) Food support to populations affected by the Ebola Outbreak",
     "Funding":2999515,
     "Committed":"Committed",
     "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Central Emergency Response Fund",
+    "Channel":"World Health Organization",
+    "Description":"(Nigeria) Life-saving response to contain the   Ebola virus Disease outbreak in Lagos Nigeria",
+    "Funding":1063443,
+    "Committed":"Committed",
+    "Area":"Nigeria"
+  },
+  {
+    "Donor":"Central Emergency Response Fund",
+    "Channel":"World Health Organization",
+    "Description":"(Guinea) Projet d’appui à l’arrêt de la transmission du virus Ebola dans les zones touchées et prévenir la propagation de l'épidémie à de nouvelles zones en Guinée",
+    "Funding":554766,
+    "Committed":"Committed",
+    "Area":"Guinea"
   },
   {
     "Donor":"Central Emergency Response Fund",
@@ -690,32 +794,32 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Health Organization",
-    "Description":"(Guinea) Projet d’appui à l’arrêt de la transmission du virus Ebola dans les zones touchées et prévenir la propagation de l'épidémie à de nouvelles zones en Guinée",
-    "Funding":554766,
-    "Committed":"Committed",
-    "Area":"Guinea"
-  },
-  {
-    "Donor":"Central Emergency Response Fund",
-    "Channel":"World Health Organization",
     "Description":"(Sierra Leone) Strengthening response to Ebola outbreak in Sierra Leone",
     "Funding":103608,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
   {
-    "Donor":"Central Emergency Response Fund",
-    "Channel":"World Health Organization",
-    "Description":"(Nigeria) Life-saving response to contain the   Ebola virus Disease outbreak in Lagos Nigeria",
-    "Funding":1063443,
+    "Donor":"Chevron Corporation",
+    "Channel":"International Medical Corps",
+    "Description":"(SIERRA LEONE) Donation for the procurement and equipment of 4 ambulances for referral of patients and to support burial teams linked to its Ebola Treatment Center in Lunsar/Port Loko",
+    "Funding":500000,
     "Committed":"Committed",
-    "Area":"Nigeria"
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Children's Investment Fund Foundation",
     "Channel":"British Red Cross",
     "Description":"(REGION) to help deal safely with those who have tragically died, to track those who have been in contact with those infected and to raise awareness in vulnerable communities in West Africa about protecting themselves.",
-    "Funding":3000000,
+    "Funding":4600000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Children's Investment Fund Foundation",
+    "Channel":"International Medical Corps",
+    "Description":"(Region) Ebola response",
+    "Funding":5400000,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -729,17 +833,25 @@ var data = [
   },
   {
     "Donor":"Children's Investment Fund Foundation",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Response to Ebola outbreak (through United Kingdom Committee for UNICEF (CIFF-Pooled funding)\n",
-    "Funding":2500000,
+    "Channel":"Save the Children ",
+    "Description":"(Region) Ebola response",
+    "Funding":1700000,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
     "Donor":"Children's Investment Fund Foundation",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Response to Ebola outbreak (through United Kingdom Committee for UNICEF (CIFF-Pooled funding)\n",
+    "Funding":2500000,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Children's Investment Fund Foundation",
     "Channel":"Various Recipients (details not yet provided)",
     "Description":"(region) $20 million commitment made at the Defeating Ebola Conference in London on 2 October. CIFF’s $20 million commitment is the biggest it has ever made to a humanitarian crisis.  It is based on an assessment that the Ebola outbreak poses an unprecedented threat that can be stopped with quick, effective and coordinated action.",
-    "Funding":12500000,
+    "Funding":3800000,
     "Committed":"Pledged",
     "Area":"Region"
   },
@@ -784,6 +896,14 @@ var data = [
     "Area":"Region"
   },
   {
+    "Donor":"Cyprus",
+    "Channel":"Ebola Response Multi-Partner Trust Fund",
+    "Description":"(Region) Ebola Response Multi-Partner Trust Fund ",
+    "Funding":6227,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
     "Donor":"Czech Republic",
     "Channel":"Médecins sans Frontières",
     "Description":"(Liberia) Urgent assistance (117429/2014-ORS)",
@@ -802,18 +922,18 @@ var data = [
   {
     "Donor":"Denmark",
     "Channel":"Danish Red Cross",
-    "Description":"(Liberia) Emergency relief regarding hygiene, information, establishment of isolationrooms in cooperation with Spanish, Canadian and Swedish Red Cross as well as ICRC and IFRC (46.H.7-1-206)",
-    "Funding":72542,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Denmark",
-    "Channel":"Danish Red Cross",
     "Description":"(Guinea) Psycho social activities and awareness campaigns. (46.H.7-1-206)",
     "Funding":91091,
     "Committed":"Committed",
     "Area":"Guinea"
+  },
+  {
+    "Donor":"Denmark",
+    "Channel":"Danish Red Cross",
+    "Description":"(Liberia) Emergency relief regarding hygiene, information, establishment of isolationrooms in cooperation with Spanish, Canadian and Swedish Red Cross as well as ICRC and IFRC (46.H.7-1-206)",
+    "Funding":72542,
+    "Committed":"Committed",
+    "Area":"Liberia"
   },
   {
     "Donor":"Denmark",
@@ -835,15 +955,15 @@ var data = [
     "Donor":"Denmark",
     "Channel":"Save the Children ",
     "Description":"(Region) Humanitarian assistance to children, families and communities affected by the Ebola epidemic (46.H.7-4-147)",
-    "Funding":132532,
+    "Funding":128008,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
     "Donor":"Denmark",
     "Channel":"Save the Children ",
-    "Description":"(Region) Humanitarian assistance to children, families and communities affected by the Ebola epidemic in West Africa (46.H.7-4-147)",
-    "Funding":85339,
+    "Description":"(Region) Humanitarian assistance to children, families and communities affected by the Ebola epidemic (46.H.7-4-147)",
+    "Funding":132532,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -874,10 +994,26 @@ var data = [
   {
     "Donor":"Denmark",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea-Bissau) Response to Ebola outbreak",
+    "Description":"(Mali) Response to Ebola outbreak",
     "Funding":216000,
     "Committed":"Committed",
-    "Area":"Guinea-Bissau"
+    "Area":"Mali"
+  },
+  {
+    "Donor":"Denmark",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Senegal) Response to Ebola outbreak",
+    "Funding":162000,
+    "Committed":"Committed",
+    "Area":"Senegal"
+  },
+  {
+    "Donor":"Denmark",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Response to Ebola outbreak",
+    "Funding":378376,
+    "Committed":"Committed",
+    "Area":"Guinea"
   },
   {
     "Donor":"Denmark",
@@ -898,26 +1034,10 @@ var data = [
   {
     "Donor":"Denmark",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Senegal) Response to Ebola outbreak",
-    "Funding":162000,
-    "Committed":"Committed",
-    "Area":"Senegal"
-  },
-  {
-    "Donor":"Denmark",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Mali) Response to Ebola outbreak",
+    "Description":"(Guinea-Bissau) Response to Ebola outbreak",
     "Funding":216000,
     "Committed":"Committed",
-    "Area":"Mali"
-  },
-  {
-    "Donor":"Denmark",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Response to Ebola outbreak",
-    "Funding":378376,
-    "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Guinea-Bissau"
   },
   {
     "Donor":"Denmark",
@@ -954,18 +1074,26 @@ var data = [
   {
     "Donor":"Estonia",
     "Channel":"World Health Organization",
-    "Description":"(Region) Contribution in response to the Ebola outbreak in West Africa",
-    "Funding":66845,
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":13755,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
     "Donor":"Estonia",
     "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
-    "Funding":13755,
+    "Description":"(Region) Contribution in response to the Ebola outbreak in West Africa",
+    "Funding":66845,
     "Committed":"Committed",
     "Area":"Region"
+  },
+  {
+    "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Guinea) Small-scale/epid. / West Africa Ebola Outbreak (ECHO/DRF/BUD/2014/93003)",
+    "Funding":1375516,
+    "Committed":"Committed",
+    "Area":"Guinea"
   },
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
@@ -977,9 +1105,9 @@ var data = [
   },
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
-    "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Guinea) Small-scale/epid. / West Africa Ebola Outbreak (ECHO/DRF/BUD/2014/93003)",
-    "Funding":1375516,
+    "Channel":"Médecins sans Frontières - Switzerland",
+    "Description":"(Guinea) Small-scale/epid. / Response multidisciplinary to an Hemorrhagic Fever Outbreak in Guinea, Sierra Leone and Lofa County in Liberia. (ECHO/DRF/BUD/2014/93001)",
+    "Funding":2613480,
     "Committed":"Committed",
     "Area":"Guinea"
   },
@@ -993,14 +1121,6 @@ var data = [
   },
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
-    "Channel":"Médecins sans Frontières - Switzerland",
-    "Description":"(Guinea) Small-scale/epid. / Response multidisciplinary to an Hemorrhagic Fever Outbreak in Guinea, Sierra Leone and Lofa County in Liberia. (ECHO/DRF/BUD/2014/93001)",
-    "Funding":2613480,
-    "Committed":"Committed",
-    "Area":"Guinea"
-  },
-  {
-    "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
     "Channel":"Save the Children ",
     "Description":"(Liberia) Ebola response in Liberia (ECHO/-WF/EDF/2014/02002)",
     "Funding":1270648,
@@ -1010,10 +1130,26 @@ var data = [
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Strengthening Ebola response in West Africa through coordination of social mobilization and distribution of basic hygiene household kits (ECHO/-WF/EDF/2014/02007)",
-    "Funding":1008827,
+    "Description":"(Liberia) Strengthening Ebola response in West Africa through coordination of social mobilization and distribution of basic hygiene household kits (part of ECHO/-WF/EDF/2014/02007)",
+    "Funding":272383,
     "Committed":"Committed",
-    "Area":"Region"
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Strengthening Ebola response in West Africa through coordination of social mobilization and distribution of basic hygiene household kits (part of ECHO/-WF/EDF/2014/02007)",
+    "Funding":90794,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Strengthening Ebola response in West Africa through coordination of social mobilization and distribution of basic hygiene household kits (part of ECHO/-WF/EDF/2014/02007)",
+    "Funding":645649,
+    "Committed":"Committed",
+    "Area":"Guinea"
   },
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
@@ -1026,10 +1162,10 @@ var data = [
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
     "Channel":"World Health Organization",
-    "Description":"(Guinea) Small-scale/epid. / Ebola outbreak surveillance, readiness and response (ECHO/DRF/BUD/2014/93002)",
+    "Description":"(Region) Small-scale/epid. / Ebola outbreak surveillance, readiness and response (ECHO/DRF/BUD/2014/93002)",
     "Funding":1349296,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Region"
   },
   {
     "Donor":"ExxonMobil",
@@ -1098,8 +1234,16 @@ var data = [
   {
     "Donor":"Germany",
     "Channel":"Ebola Response Multi-Partner Trust Fund",
-    "Description":"(Region) Ebola Trust Fund (transnational Projects for Sierra Leone, Liberia and Guinea) (VN05 321.50 SLE 08/14)",
-    "Funding":6305170,
+    "Description":"(Region) Ebola Trust Fund (transnational Projects for Sierra Leone, Liberia and Guinea) (part of VN05 321.50 SLE 08/14)",
+    "Funding":6260000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"Ebola Response Multi-Partner Trust Fund",
+    "Description":"(Region) Ebola Trust Fund (transnational Projects for Sierra Leone, Liberia and Guinea) (part of VN05 321.50 SLE 08/14)",
+    "Funding":5418648,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -1130,6 +1274,22 @@ var data = [
   {
     "Donor":"Germany",
     "Channel":"Plan International",
+    "Description":"(Liberia) Multi-sectoral emergency projects to combat the direct and indirect effects of the Ebola epidemicin Sierra Leone, Guinea and Liberia (VN05 321.50 LIB 04/14)",
+    "Funding":1905972,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"Plan International",
+    "Description":"(Mali) Support of the national capacity building to prevent further srpeading of Ebola in Mali (VN05 321.50 MLI 09/14)",
+    "Funding":870113,
+    "Committed":"Committed",
+    "Area":"Mali"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"Plan International",
     "Description":"(Region) Procurement and distribution of NFI/hygiene kits (chlorine, soap, toothpaste, bed linen, among other things) to foster families (if necessary also disinfection of toilets and households) (Liberia/ Guinea).Procurement and establishment of wash-hand stations and distribution of sanitary kits (incl. soap, chlorine etc.) to 500 public places (schools, market places, clinics, health centres etc.) (Liberia/Guinea). Provision of 6 water tanks (as well as weekly refilling) for 3 local health centres, which also take care of first reception of people infected with Ebola \n",
     "Funding":1905972,
     "Committed":"Committed",
@@ -1137,9 +1297,33 @@ var data = [
   },
   {
     "Donor":"Germany",
-    "Channel":"Plan International",
-    "Description":"(Liberia) Multi-sectoral emergency projects to combat the direct and indirect effects of the Ebola epidemicin Sierra Leone, Guinea and Liberia (VN05 321.50 LIB 04/14)",
-    "Funding":1905972,
+    "Channel":"Save the Children ",
+    "Description":"(Sierra Leone) Life-saving measures and notlindernde by strengthening the health system and educating targetcommunities for Ebola prevention in Sierra Leone (VN05 321.50 SLE 07/14)",
+    "Funding":890930,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Ebola Response",
+    "Funding":3240000,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Ebola Response (2014.1829.2)",
+    "Funding":26350461,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Ebola Response",
+    "Funding":4320000,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -1150,6 +1334,14 @@ var data = [
     "Funding":378000,
     "Committed":"Committed",
     "Area":"Mali"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Ebola Response",
+    "Funding":1270648,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Germany",
@@ -1185,49 +1377,17 @@ var data = [
   },
   {
     "Donor":"Germany",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Ebola Response (2014.1829.2)",
-    "Funding":26350461,
+    "Channel":"World Food Programme",
+    "Description":"(Liberia) Logistics services for the humanitarian community in the Ebola crisis in West Africa, includingUNHAS (VN05 321.50 LIB 06/14)",
+    "Funding":5044136,
     "Committed":"Committed",
     "Area":"Liberia"
-  },
-  {
-    "Donor":"Germany",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Ebola Response",
-    "Funding":1270648,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Germany",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Ebola Response",
-    "Funding":4320000,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Germany",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) Ebola Response",
-    "Funding":3240000,
-    "Committed":"Committed",
-    "Area":"Sierra Leone"
   },
   {
     "Donor":"Germany",
     "Channel":"World Food Programme",
     "Description":"(Liberia) Food security (2014.1830.0)",
     "Funding":23959647,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Germany",
-    "Channel":"World Food Programme",
-    "Description":"(Liberia) Logistics services for the humanitarian community in the Ebola crisis in West Africa, includingUNHAS (VN05 321.50 LIB 06/14)",
-    "Funding":5044136,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -1242,6 +1402,14 @@ var data = [
   {
     "Donor":"Germany",
     "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":267380,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Germany",
+    "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa ",
     "Funding":1336000,
     "Committed":"Committed",
@@ -1251,7 +1419,7 @@ var data = [
     "Donor":"Germany",
     "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
-    "Funding":267380,
+    "Funding":12032086,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -1259,7 +1427,7 @@ var data = [
     "Donor":"Germany",
     "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
-    "Funding":12032086,
+    "Funding":267380,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -1280,6 +1448,22 @@ var data = [
     "Area":"Region"
   },
   {
+    "Donor":"Greece",
+    "Channel":"World Food Programme",
+    "Description":"(Guinea) EBOLA viral Haemorrhagic fever outbreak confirmed on the 21st of March by the Government of Guinea. The epicentre seems to be a small rural town called Gueckedou in southern Guinea. Gueckedou is extremely close to both the Sierra Leone and Liberian boarders and communities in all three countries are at risk .",
+    "Funding":37831,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Greece",
+    "Channel":"World Health Organization",
+    "Description":"(Region) A contribution to the implementing agency WHO for Ebola Response Roadmap",
+    "Funding":252207,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
     "Donor":"Hudson's Bay Company",
     "Channel":"Canadian Red Cross Society",
     "Description":"(Region) A donation match of up to $50,000 to the Canadian Red Cross in support of their efforts to combat the spread of the deadly Ebola virus and provide emergency response operations in the affected countries. The donation will benefit the West Africa Ebola Fund with funds raised through the HBC Foundation.",
@@ -1290,10 +1474,10 @@ var data = [
   {
     "Donor":"Hungary",
     "Channel":"World Health Organization",
-    "Description":"(Guinea) To support the implementation of WHO's Ebola response roadmap",
+    "Description":"(Region) To support the implementation of WHO's Ebola response roadmap",
     "Funding":63532,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Region"
   },
   {
     "Donor":"Iceland",
@@ -1371,7 +1555,7 @@ var data = [
     "Donor":"Italy",
     "Channel":"United Nations Children's Fund",
     "Description":"(Sierra Leone) Multilateral contribution to sustain the UNICEF activities in Sierra Leone within the framework of the“Ebola Outbreak Response in West Africa” (in line with the UN inter-agency plan “UN Ebola Regional Response Strategy”) to control the outbreak, ensure the continuity of essential social services and support unaccompanied/separated/orphaned/abandoned children",
-    "Funding":1261034,
+    "Funding":1245330,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -1382,6 +1566,14 @@ var data = [
     "Funding":1261034,
     "Committed":"Committed",
     "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Italy",
+    "Channel":"World Health Organization",
+    "Description":"(Region) Ebola Virus disease outbreak response, Guinea” to control the spread of Ebola Virus disease in affected districts, including Guekedou, Macenta and Kissidougou, reduce mortality in the affected population, and heighten outbreak response preparations in neighbouring districts and areas of Guinea ",
+    "Funding":275103,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Japan",
@@ -1417,11 +1609,11 @@ var data = [
   },
   {
     "Donor":"Japan",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Ebola Response",
-    "Funding":2000000,
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Region) Ebola response",
+    "Funding":3000000,
     "Committed":"Committed",
-    "Area":"Liberia"
+    "Area":"Region"
   },
   {
     "Donor":"Japan",
@@ -1442,14 +1634,6 @@ var data = [
   {
     "Donor":"Japan",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Ebola Response",
-    "Funding":1500000,
-    "Committed":"Committed",
-    "Area":"Guinea"
-  },
-  {
-    "Donor":"Japan",
-    "Channel":"United Nations Children's Fund",
     "Description":"(Guinea) Emergency Grant Aid in response to the Ebola hemorrhagic fever outbreak\n",
     "Funding":523602,
     "Committed":"Committed",
@@ -1457,10 +1641,58 @@ var data = [
   },
   {
     "Donor":"Japan",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Ebola Response",
+    "Funding":2000000,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Ebola Response",
+    "Funding":1500000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Japan",
     "Channel":"Various Recipients (details not yet provided)",
-    "Description":"(Region) Ebola response (part of $40 million additional support announced on October 3)",
-    "Funding":18000000,
+    "Description":"(Region) Ebola response (total funding of $18 million - part of $40 million additional support announced on October 3 - fully allocated to specific organizations)",
+    "Funding":0,
     "Committed":"Pledged",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"World Food Programme",
+    "Description":"Ebola response",
+    "Funding":667995,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Regional EMOP - 200761 - Support to Populations in Areas Affected by the Ebola Outbreak  in West Africa (Liberia)",
+    "Funding":700000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Ebola response ",
+    "Funding":2000000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Ebola response ",
+    "Funding":2000000,
+    "Committed":"Committed",
     "Area":"Region"
   },
   {
@@ -1475,47 +1707,7 @@ var data = [
     "Donor":"Japan",
     "Channel":"World Food Programme",
     "Description":"(Region) Ebola response ",
-    "Funding":2000000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Japan",
-    "Channel":"World Food Programme",
-    "Description":"(Region) Ebola response ",
-    "Funding":2000000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Japan",
-    "Channel":"World Food Programme",
-    "Description":"(Region) Regional EMOP - 200761 - Support to Populations in Areas Affected by the Ebola Outbreak  in West Africa",
-    "Funding":700000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Japan",
-    "Channel":"World Food Programme",
-    "Description":"(Region) Ebola response ",
     "Funding":294660,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Japan",
-    "Channel":"World Food Programme",
-    "Description":"(Region) Ebola response ",
-    "Funding":667995,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Japan",
-    "Channel":"World Health Organization",
-    "Description":"(region) Ebola virus disease outbreak response plan in West Africa\n",
-    "Funding":850000,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -1524,6 +1716,22 @@ var data = [
     "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in West Africa\n",
     "Funding":5000000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"World Health Organization",
+    "Description":"Ebola Response",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Japan",
+    "Channel":"World Health Organization",
+    "Description":"(region) Ebola virus disease outbreak response plan in West Africa\n",
+    "Funding":850000,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -1661,6 +1869,22 @@ var data = [
     "Description":"(Sierral Leone) IFRC Emergency Appeal",
     "Funding":133658,
     "Committed":"Committed",
+    "Area":"Sierral Leone"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"Médecins sans Frontières",
+    "Description":"(Guinea) Emergency medical response to hemorrhagic fever outbreak in Guinea and nearby countries (26837 (DSH0118706)",
+    "Funding":658762,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"Médecins sans Frontières",
+    "Description":"(Sierra Leone) Ebola response activities in Sierra Leone, Kailahun Project. (27078 (DSH0119616))",
+    "Funding":1251564,
+    "Committed":"Committed",
     "Area":"Sierra Leone"
   },
   {
@@ -1673,24 +1897,104 @@ var data = [
   },
   {
     "Donor":"Netherlands",
-    "Channel":"Médecins sans Frontières",
-    "Description":"(Guinea) Emergency medical response to hemorrhagic fever outbreak in Guinea and nearby countries (26837 (DSH0118706)",
-    "Funding":658762,
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Mali) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":871731,
+    "Committed":"Committed",
+    "Area":"Mali"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Senegal) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":186800,
+    "Committed":"Committed",
+    "Area":"Senegal"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Nigeria) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":311333,
+    "Committed":"Committed",
+    "Area":"Nigeria"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Benin) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":124533,
+    "Committed":"Committed",
+    "Area":"Benin"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Burkina Faso) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":249066,
+    "Committed":"Committed",
+    "Area":"Burkina Faso"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Cote d'Ivoire) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":124533,
+    "Committed":"Committed",
+    "Area":"Cote D'Ivoire"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Ghana) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":124533,
+    "Committed":"Committed",
+    "Area":"Ghana"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":1245330,
     "Committed":"Committed",
     "Area":"Guinea"
   },
   {
     "Donor":"Netherlands",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
-    "Funding":6305170,
+    "Description":"(Guinea-Bissau) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":498132,
+    "Committed":"Committed",
+    "Area":"Guinea-Bissau"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":1245330,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Contribution to UNICEF Ebola Response activities within the scope of the UNICEF HAC Appeal for the Ebola Outbreak Response in West Africa.  (27050)",
+    "Funding":1245330,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Netherlands",
+    "Channel":"World Health Organization",
+    "Description":"(Region) Contribution to WHO emergency aid activities within the scope of the WHO Ebola Response Roadmap (27049 (DSH0119375))",
+    "Funding":6684492,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
     "Donor":"Netherlands",
     "Channel":"World Health Organization",
-    "Description":"(Region) Contribution to WHO emergency aid activities within the scope of the WHO Ebola Response Roadmap (27049 (DSH0119375))",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa",
     "Funding":6684492,
     "Committed":"Committed",
     "Area":"Region"
@@ -1738,6 +2042,14 @@ var data = [
   {
     "Donor":"Norway",
     "Channel":"Médecins sans Frontières - Norway",
+    "Description":"(Guinea) QZA-14/0235-3/Emergency medical response to a Haemorrhagic Fever Outbreak in Guinea and neighbouring countries.\n",
+    "Funding":670466,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Norway",
+    "Channel":"Médecins sans Frontières - Norway",
     "Description":"(Region) Ebola Response ( QZA-14/0235)",
     "Funding":798212,
     "Committed":"Committed",
@@ -1753,19 +2065,19 @@ var data = [
   },
   {
     "Donor":"Norway",
-    "Channel":"Médecins sans Frontières - Norway",
-    "Description":"(Guinea) QZA-14/0235-3/Emergency medical response to a Haemorrhagic Fever Outbreak in Guinea and neighbouring countries.\n",
-    "Funding":670466,
-    "Committed":"Committed",
-    "Area":"Guinea"
-  },
-  {
-    "Donor":"Norway",
     "Channel":"Plan International",
     "Description":"(Liberia) Focus is on preventive and health promotion and social mobilization",
     "Funding":165000,
     "Committed":"Committed",
     "Area":"Liberia"
+  },
+  {
+    "Donor":"Norway",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Ebola Response (RAF-214/0100)",
+    "Funding":2933842,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Norway",
@@ -1778,6 +2090,14 @@ var data = [
   {
     "Donor":"Norway",
     "Channel":"World Health Organization",
+    "Description":"(Ghana) Ebola Response (GHA-14/0006)",
+    "Funding":961688,
+    "Committed":"Committed",
+    "Area":"Ghana"
+  },
+  {
+    "Donor":"Norway",
+    "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
     "Funding":1117497,
     "Committed":"Committed",
@@ -1786,10 +2106,10 @@ var data = [
   {
     "Donor":"Norway",
     "Channel":"World Health Organization",
-    "Description":"(Ghana) Ebola Response (GHA-14/0006)",
-    "Funding":961688,
-    "Committed":"Committed",
-    "Area":"Ghana"
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":7982120,
+    "Committed":"Pledged",
+    "Area":"Region"
   },
   {
     "Donor":"Novartis",
@@ -1816,20 +2136,84 @@ var data = [
     "Area":"Region"
   },
   {
-    "Donor":"Paul G. Allen Family Foundation",
+    "Donor":"Paul G. Allen",
+    "Channel":"ACF - USA",
+    "Description":"(Region) To provide food for isolated patients, construct water kiosks and hand washing stations, improve Ebola prevention awareness, and train community health volunteers; Sensitization activities, hygiene awareness activities, education materials, research for lessons learned document post outbreak. ",
+    "Funding":1900000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Paul G. Allen",
     "Channel":"American Red Cross",
-    "Description":"(Region)  equipment, volunteers and educational materials in Guinea, Sierra Leone and Liberia ",
+    "Description":"(Region)  General grant support efforts in Liberia, Guinea, and Sierra Leone. Body management, contact tracing, training , equipment, volunteers and educational materials",
     "Funding":2800000,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
-    "Donor":"Paul G. Allen Family Foundation",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) air lift 50,000 protection kits into Liberia to help prevent the spread of the virus among caretakers and family members (in coordination with UPS)",
-    "Funding":3600000,
-    "Committed":"Pledged",
+    "Donor":"Paul G. Allen",
+    "Channel":"American Red Cross",
+    "Description":"Region - Providing two bloodmobile units and plasmapheresis equipment to initiate Ebola Convalescent Plasma Program",
+    "Funding":553293,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"Direct Relief",
+    "Description":"(Region) Provide supply chain and coordinated procurement for in country NGOs to ensure effective distribution of supplies, PPE and preventative supplies",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"Region - Using mobile technology to increase awareness and educate populations about Ebola.",
+    "Funding":270988,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"Médecins sans Frontières",
+    "Description":"Region - Logistics, freight, storage, medical supplies, portable labs, training of volunteers, staffing in treatment centers, nutrition packets",
+    "Funding":1300000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"Medical Teams International",
+    "Description":"Liberia - Providing supervision of 250 clinics in Liberia, providing infection control, improving office infrastructure, care in refugee camps",
+    "Funding":318000,
+    "Committed":"Committed",
     "Area":"Liberia"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"Save the Children ",
+    "Description":"(LIBERIA) To support efforts to provide health care, comfort and education to Liberia’s children; Hiring of local staff to help implement projects, community outreach and sensitization, emergency education to students out of school due to Ebola, support family tracing for orphans of Ebola ",
+    "Funding":6600000,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) air lift 50,000 protection kits into Liberia to help prevent the spread of the virus among caretakers and family members (in coordination with UPS); , training of 2,371 community health workers. Also a matching grant",
+    "Funding":3600000,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Paul G. Allen",
+    "Channel":"World Health Organization",
+    "Description":"Region - Establish global medevac coordination capacity, remove cost barriers to medevac by establishing central fund, provide assurance to volunteers that their health is being looked after, payment for 4 WHO staff, coverage of 12 medevacs",
+    "Funding":2170900,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Philippines",
@@ -1844,6 +2228,14 @@ var data = [
     "Channel":"World Health Organization",
     "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
     "Funding":2000000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Poland",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":145711,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -1867,17 +2259,25 @@ var data = [
     "Donor":"Private (individuals & organisations)",
     "Channel":"Ebola Response Multi-Partner Trust Fund",
     "Description":"(Region) Ebola Response Multi-Partner Trust Fund ",
-    "Funding":300,
+    "Funding":2800,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
     "Donor":"Private (individuals & organisations)",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Guinea) IFRC Emergency Appeal (from Tullow Guinea Limited)",
-    "Funding":199314,
+    "Description":"(Region) The World Cocoa Foundation, WCF, will distribute 100 percent of the donated funds to support two non-governmental organizations who are currently working in West Africa, the International Federation of the Red Cross and Red Crescent (IFRC) and Caritas.",
+    "Funding":100000,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Region"
+  },
+  {
+    "Donor":"Private (individuals & organisations)",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Liberia) Aureus Mining Inc gave US$30k (in conjunction with MonuRent) to purchase 5 motorbikes and associated equipment and also a 13Kva Generator",
+    "Funding":30000,
+    "Committed":"Committed",
+    "Area":"Liberia"
   },
   {
     "Donor":"Private (individuals & organisations)",
@@ -1906,18 +2306,26 @@ var data = [
   {
     "Donor":"Private (individuals & organisations)",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Liberia) Aureus Mining Inc gave US$30k (in conjunction with MonuRent) to purchase 5 motorbikes and associated equipment and also a 13Kva Generator",
-    "Funding":30000,
+    "Description":"(Guinea) IFRC Emergency Appeal (from Tullow Guinea Limited)",
+    "Funding":199314,
     "Committed":"Committed",
-    "Area":"Liberia"
+    "Area":"Guinea"
   },
   {
     "Donor":"Private (individuals & organisations)",
-    "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Region) The World Cocoa Foundation, WCF, will distribute 100 percent of the donated funds to support two non-governmental organizations who are currently working in West Africa, the International Federation of the Red Cross and Red Crescent (IFRC) and Caritas.",
-    "Funding":100000,
+    "Channel":"International Rescue Committee",
+    "Description":"(Sierra Leone) support to ebola virus outbreak response (through Stichting Vluchteling)",
+    "Funding":187791,
     "Committed":"Committed",
-    "Area":"Region"
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Private (individuals & organisations)",
+    "Channel":"Liberian Red Cross Society",
+    "Description":"(Liberia) The Management of Pacific International Lines (PIL) through its agents here, Necotrans-Liberia, has donated US$ 30,000 to the Liberian National Red Cross Society (LNRCS)",
+    "Funding":30000,
+    "Committed":"Committed",
+    "Area":"Liberia"
   },
   {
     "Donor":"Private (individuals & organisations)",
@@ -1946,6 +2354,14 @@ var data = [
   {
     "Donor":"Private (individuals & organisations)",
     "Channel":"United Nations Children's Fund",
+    "Description":"(SIerra Leone) Dawnus contributed $15000 to UNICEF in AMI site.",
+    "Funding":15000,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Private (individuals & organisations)",
+    "Channel":"United Nations Children's Fund",
     "Description":"(Liberia) Dawnus contributed $10000 to UNICEF in AMI site.",
     "Funding":10000,
     "Committed":"Committed",
@@ -1961,19 +2377,11 @@ var data = [
   },
   {
     "Donor":"Private (individuals & organisations)",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(SIerra Leone) Dawnus contributed $15000 to UNICEF in AMI site.",
-    "Funding":15000,
-    "Committed":"Committed",
-    "Area":"Sierra Leone"
-  },
-  {
-    "Donor":"Private (individuals & organisations)",
     "Channel":"World Food Programme",
-    "Description":"(Liberia) Regional EMOP - 200761 - Support to Populations in Areas Affected by the Ebola Outbreak  in West Africa (USAID/FFP)\n",
-    "Funding":112973,
+    "Description":"(Region) Ebola response",
+    "Funding":182999,
     "Committed":"Committed",
-    "Area":"Liberia"
+    "Area":"Region"
   },
   {
     "Donor":"Private (individuals & organisations)",
@@ -1986,34 +2394,10 @@ var data = [
   {
     "Donor":"Private (individuals & organisations)",
     "Channel":"World Food Programme",
-    "Description":"(Region) Ebola response",
-    "Funding":182999,
+    "Description":"(Liberia) Regional EMOP - 200761 - Support to Populations in Areas Affected by the Ebola Outbreak  in West Africa (USAID/FFP)\n",
+    "Funding":112973,
     "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Private (individuals & organisations)",
-    "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa (BHP Billiton)",
-    "Funding":400000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Private (individuals & organisations)",
-    "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa (BHP Billiton)",
-    "Funding":400000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Private (individuals & organisations)",
-    "Channel":"World Health Organization",
-    "Description":"(Guinea) WHO - Ebola Virus Diseases Outbreak response in west Africa (from Rio Tinto/Guinea)",
-    "Funding":100000,
-    "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Liberia"
   },
   {
     "Donor":"Private (individuals & organisations)",
@@ -2038,6 +2422,38 @@ var data = [
     "Funding":28200,
     "Committed":"Committed",
     "Area":"Guinea"
+  },
+  {
+    "Donor":"Private (individuals & organisations)",
+    "Channel":"World Health Organization",
+    "Description":"(Guinea) WHO - Ebola Virus Diseases Outbreak response in west Africa (from Rio Tinto/Guinea)",
+    "Funding":100000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Private (individuals & organisations)",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa (BHP Billiton)",
+    "Funding":400000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Private (individuals & organisations)",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa (BHP Billiton)",
+    "Funding":400000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Prudential Financial, Inc.",
+    "Channel":"Médecins sans Frontières",
+    "Description":"(REGION) To fight and help control the outbreak in Western Africa",
+    "Funding":300000,
+    "Committed":"Pledged",
+    "Area":"Region"
   },
   {
     "Donor":"Qatar",
@@ -2104,12 +2520,20 @@ var data = [
     "Area":"Guinea"
   },
   {
+    "Donor":"South Africa",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":325079,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
     "Donor":"Spain",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Cote d'Ivoire) To prepare the Cote d’Ivoire Red Cross through reinforcement of volunteers andmaterial. (MDRCI006)",
-    "Funding":13305,
+    "Description":"(Mali) To reduce the immediate risks to the health of affected populations  (MDRML010)",
+    "Funding":53508,
     "Committed":"Committed",
-    "Area":"Cote D'Ivoire"
+    "Area":"Mali"
   },
   {
     "Donor":"Spain",
@@ -2122,10 +2546,26 @@ var data = [
   {
     "Donor":"Spain",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Mali) To reduce the immediate risks to the health of affected populations  (MDRML010)",
-    "Funding":53508,
+    "Description":"(Cote d'Ivoire) To prepare the Cote d’Ivoire Red Cross through reinforcement of volunteers andmaterial. (MDRCI006)",
+    "Funding":13305,
     "Committed":"Committed",
-    "Area":"Mali"
+    "Area":"Cote D'Ivoire"
+  },
+  {
+    "Donor":"Spain",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Liberia) To contribute to the reduction of mortality and morbidity related to the Ebola virus disease in Liberia through awareness messaging, social mobilization and provide psychosocial support to those affected. (MDRLR001)",
+    "Funding":1877347,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Spain",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Sierra Leone) Contribute to the reduction of mortality and morbidity related to the Ebola virus disease in Sierra Leone through awareness messaging, safe and dignified burials, contact tracing, social mobilization provide psychosocial support and case management/treatment to those affected. (MDRSL005)",
+    "Funding":4505632,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Spain",
@@ -2138,6 +2578,14 @@ var data = [
   {
     "Donor":"Spain",
     "Channel":"Spanish Red Cross",
+    "Description":"(Sierra Leone) To strengthen the capacities of Spanish Red Cross in its fight against Ebola outbreak in West Africa.",
+    "Funding":375469,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Spain",
+    "Channel":"Spanish Red Cross",
     "Description":"(Sierra Leone) Improving access to health services against Ebola to the population of Kenema",
     "Funding":197628,
     "Committed":"Committed",
@@ -2145,11 +2593,27 @@ var data = [
   },
   {
     "Donor":"Spain",
-    "Channel":"World Health Organization",
-    "Description":"(Guinea) To assist governments and partners in the revision and resourcing of country-specific operational plans for Ebola response, and the coordination of international support for their full implementation.",
-    "Funding":126103,
+    "Channel":"World Food Programme",
+    "Description":"(Region) UNHAS. To provide common air services to some of the world’s most remote and challenging locations. To facilitate the rapid deployment of humanitarian staff to support the Ebola response and the delivery of light cargo. ",
+    "Funding":189155,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Region"
+  },
+  {
+    "Donor":"Spain",
+    "Channel":"World Food Programme",
+    "Description":"(Region) EBOLA viral Haemorrhagic fever outbreak confirmed on the 21st of March by the Government of Guinea. The epicentre seems to be a small rural town called Gueckedou in southern Guinea. Gueckedou is extremely close to both the Sierra Leone and Liberian boarders and communities in all three countries are at risk .",
+    "Funding":625782,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Spain",
+    "Channel":"World Health Organization",
+    "Description":"(Region) To assist governments and partners in the revision and resourcing of country-specific operational plans for Ebola response, and the coordination of international support for their full implementation.",
+    "Funding":133690,
+    "Committed":"Committed",
+    "Area":"Region"
   },
   {
     "Donor":"Stavros Niarchos Foundation",
@@ -2170,16 +2634,24 @@ var data = [
   {
     "Donor":"Sweden",
     "Channel":"Ebola Response Multi-Partner Trust Fund",
-    "Description":"(region) Ebola Response Multi-Partner Trust Fund ",
+    "Description":"(Region) Multipartner trust fund for Ebola response",
     "Funding":14000000,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
     "Donor":"Sweden",
-    "Channel":"Médecins sans Frontières",
-    "Description":"(Sierra Leone) Emergency response to ebola outbreak",
-    "Funding":687758,
+    "Channel":"International Rescue Committee",
+    "Description":"(Liberia) Response to Ebola outbreak",
+    "Funding":496478,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"International Rescue Committee",
+    "Description":"(Sierra Leone) Response to Ebola outbreak",
+    "Funding":496478,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2198,6 +2670,30 @@ var data = [
     "Funding":687758,
     "Committed":"Committed",
     "Area":"Liberia"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"Médecins sans Frontières",
+    "Description":"(Sierra Leone) Emergency response to ebola outbreak",
+    "Funding":687758,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"Médecins sans Frontières",
+    "Description":"(Guinea) Medical Response to the Measles Outbreak in Matoto, Matam and Ratoma Health District",
+    "Funding":306279,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"Plan International",
+    "Description":"(Sierra Leone) Contribute to the reduction of mortality related to the Ebola Virus (Plan Sweden)",
+    "Funding":432239,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Sweden",
@@ -2225,19 +2721,11 @@ var data = [
   },
   {
     "Donor":"Sweden",
-    "Channel":"Plan International",
-    "Description":"(Sierra Leone) Contribute to the reduction of mortality related to the Ebola Virus (Plan Sweden)",
-    "Funding":432239,
-    "Committed":"Committed",
-    "Area":"Sierra Leone"
-  },
-  {
-    "Donor":"Sweden",
     "Channel":"Save the Children ",
-    "Description":"(Region) Response to Ebola crisis",
-    "Funding":1519127,
+    "Description":"(Guinea) Response to ebola outbreak in Guinea",
+    "Funding":96294,
     "Committed":"Committed",
-    "Area":"Region"
+    "Area":"Guinea"
   },
   {
     "Donor":"Sweden",
@@ -2250,10 +2738,10 @@ var data = [
   {
     "Donor":"Sweden",
     "Channel":"Save the Children ",
-    "Description":"(Guinea) Response to ebola outbreak in Guinea",
-    "Funding":96294,
+    "Description":"(Region) Response to Ebola crisis",
+    "Funding":1519127,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Region"
   },
   {
     "Donor":"Sweden",
@@ -2274,10 +2762,58 @@ var data = [
   {
     "Donor":"Sweden",
     "Channel":"Swedish Red Cross ",
+    "Description":"(Region) Ebola response through IFRC and local organizations",
+    "Funding":1381025,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"Swedish Red Cross ",
     "Description":"(Liberia) Enabling the National Society to implement epidemic control and preventative measures in the affected and high risk communities in the country through IFRC",
     "Funding":96286,
     "Committed":"Committed",
     "Area":"Liberia"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"Swedish Red Cross ",
+    "Description":"(Region) Ebola virus desease outbreak response",
+    "Funding":1359065,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Sub-regional response to Ebola outbreak",
+    "Funding":12231585,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Response to Ebola outbreak",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Response to Ebola outbreak",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"Sweden",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Response to Ebola outbreak",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Sweden",
@@ -2314,18 +2850,10 @@ var data = [
   {
     "Donor":"Sweden",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea-Bissau) Response to Ebola outbreak",
+    "Description":"(Mali) Response to Ebola outbreak",
     "Funding":200000,
     "Committed":"Committed",
-    "Area":"Guinea-Bissau"
-  },
-  {
-    "Donor":"Sweden",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Response to Ebola outbreak",
-    "Funding":1000000,
-    "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Mali"
   },
   {
     "Donor":"Sweden",
@@ -2346,26 +2874,10 @@ var data = [
   {
     "Donor":"Sweden",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Mali) Response to Ebola outbreak",
+    "Description":"(Guinea-Bissau) Response to Ebola outbreak",
     "Funding":200000,
     "Committed":"Committed",
-    "Area":"Mali"
-  },
-  {
-    "Donor":"Sweden",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Response to Ebola outbreak",
-    "Funding":1000000,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Sweden",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) Response to Ebola outbreak",
-    "Funding":1000000,
-    "Committed":"Committed",
-    "Area":"Sierra Leone"
+    "Area":"Guinea-Bissau"
   },
   {
     "Donor":"Sweden",
@@ -2373,14 +2885,6 @@ var data = [
     "Description":"(Region) Transport Support in Response to Ebola crisis (WFP/UNHAS)",
     "Funding":2762049,
     "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"Sweden",
-    "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa ",
-    "Funding":4300000,
-    "Committed":"Pledged",
     "Area":"Region"
   },
   {
@@ -2400,10 +2904,26 @@ var data = [
     "Area":"Region"
   },
   {
+    "Donor":"Sweden",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa ",
+    "Funding":4300000,
+    "Committed":"Pledged",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Switzerland",
+    "Channel":"Food & Agriculture Organization of the United Nations",
+    "Description":"(Region) Mitigation of Ebola effects on food security ",
+    "Funding":1320000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
     "Donor":"Switzerland",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
     "Description":"(Liberia) medical treatment of infected and prevention campaigns (IFRC and Swiss RC)",
-    "Funding":1100000,
+    "Funding":3850000,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -2418,14 +2938,6 @@ var data = [
   {
     "Donor":"Switzerland",
     "Channel":"Médecins sans Frontières - Switzerland",
-    "Description":"(Liberia) Emergency medical response to Ebola outbreak (7F-09159.01)",
-    "Funding":550000,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"Switzerland",
-    "Channel":"Médecins sans Frontières - Switzerland",
     "Description":"(Liberia) Support to Ebola emergency response in Lofa County - Liberia ",
     "Funding":1100000,
     "Committed":"Committed",
@@ -2433,17 +2945,33 @@ var data = [
   },
   {
     "Donor":"Switzerland",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Health ",
-    "Funding":21858,
+    "Channel":"Médecins sans Frontières - Switzerland",
+    "Description":"(Liberia) Emergency medical response to Ebola outbreak (7F-09159.01)",
+    "Funding":550000,
     "Committed":"Committed",
     "Area":"Liberia"
   },
   {
     "Donor":"Switzerland",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Prevention and health support against Ebola spread ",
+    "Funding":1870000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Switzerland",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Ebola response - food assistance",
+    "Funding":1484472,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"Switzerland",
     "Channel":"World Food Programme",
     "Description":"(Region) Contribution to the Regional Emergency Operation - UNHAS",
-    "Funding":327869,
+    "Funding":3630000,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2458,7 +2986,7 @@ var data = [
   {
     "Donor":"Switzerland",
     "Channel":"World Food Programme",
-    "Description":"(Region) Ebola response -UNHAS",
+    "Description":"(Region) (Region) Ebola response - food assistance",
     "Funding":1052632,
     "Committed":"Committed",
     "Area":"Region"
@@ -2466,7 +2994,7 @@ var data = [
   {
     "Donor":"Switzerland",
     "Channel":"World Food Programme",
-    "Description":"(Region) (Region) Ebola response - food assistance",
+    "Description":"(Region) Ebola response -UNHAS",
     "Funding":1052632,
     "Committed":"Committed",
     "Area":"Region"
@@ -2480,10 +3008,18 @@ var data = [
     "Area":"Region"
   },
   {
+    "Donor":"Thailand",
+    "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":156495,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
     "Donor":"UNICEF National Committee/Australia",
     "Channel":"United Nations Children's Fund",
     "Description":"(Region) Ebola Response ",
-    "Funding":37908,
+    "Funding":37577,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2491,7 +3027,7 @@ var data = [
     "Donor":"UNICEF National Committee/Canada",
     "Channel":"United Nations Children's Fund",
     "Description":"(Region) Ebola Response ",
-    "Funding":189211,
+    "Funding":189720,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2507,7 +3043,7 @@ var data = [
     "Donor":"UNICEF National Committee/Finland",
     "Channel":"United Nations Children's Fund",
     "Description":"(Region) WCARO RO - Response to Ebola outbreak ",
-    "Funding":131752,
+    "Funding":257856,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2523,7 +3059,7 @@ var data = [
     "Donor":"UNICEF National Committee/Germany",
     "Channel":"United Nations Children's Fund",
     "Description":"(Region) WCARO RO - Response to Ebola outbreak ",
-    "Funding":133690,
+    "Funding":385897,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2587,7 +3123,7 @@ var data = [
     "Donor":"UNICEF National Committee/Netherlands",
     "Channel":"United Nations Children's Fund",
     "Description":"(Region) Response to Ebola outbreak",
-    "Funding":635324,
+    "Funding":635325,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2602,6 +3138,14 @@ var data = [
   {
     "Donor":"UNICEF National Committee/Sweden",
     "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Response to Ebola outbreak (through UNICEF/Chile)",
+    "Funding":813542,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"UNICEF National Committee/Sweden",
+    "Channel":"United Nations Children's Fund",
     "Description":"(Region) Ebola Response ",
     "Funding":690512,
     "Committed":"Committed",
@@ -2610,8 +3154,8 @@ var data = [
   {
     "Donor":"UNICEF National Committee/United Kingdom",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Response to Ebola outbreak (Dawnus)",
-    "Funding":213889,
+    "Description":"(Liberia) Response to Ebola outbreak",
+    "Funding":83056,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -2626,8 +3170,16 @@ var data = [
   {
     "Donor":"UNICEF National Committee/United Kingdom",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Response to Ebola outbreak",
-    "Funding":83056,
+    "Description":"(Sierra Leone) Response to Ebola outbreak ",
+    "Funding":329459,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"UNICEF National Committee/United Kingdom",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Response to Ebola outbreak (Dawnus)",
+    "Funding":213889,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -2642,8 +3194,8 @@ var data = [
   {
     "Donor":"United Kingdom ",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Sierra Leone) Support to the ebola response in West Africa (204838)",
-    "Funding":1658375,
+    "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa (204838)",
+    "Funding":9760000,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2666,8 +3218,16 @@ var data = [
   {
     "Donor":"United Kingdom ",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Sierra Leone) Support to the ebola response in West Africa (204838)",
+    "Funding":1658375,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"United Kingdom ",
+    "Channel":"International Organization for Migration",
     "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa (204838)",
-    "Funding":9760000,
+    "Funding":4201600,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2676,6 +3236,14 @@ var data = [
     "Channel":"Médecins sans Frontières",
     "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa (204838)",
     "Funding":1243781,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"United Kingdom ",
+    "Channel":"Plan International",
+    "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa (204838)",
+    "Funding":3536000,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2690,8 +3258,8 @@ var data = [
   {
     "Donor":"United Kingdom ",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa.  (204838)",
-    "Funding":10945274,
+    "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa (204838)",
+    "Funding":23075200,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2700,6 +3268,14 @@ var data = [
     "Channel":"United Nations Children's Fund",
     "Description":"(Sierra Leone) Support to ebola response in West Africa (204838)",
     "Funding":829187,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"United Kingdom ",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa.  (204838)",
+    "Funding":10945274,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2730,16 +3306,32 @@ var data = [
   {
     "Donor":"United Kingdom ",
     "Channel":"World Health Organization",
+    "Description":"(Sierra Leone) Ebola Response",
+    "Funding":317850,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"United Kingdom ",
+    "Channel":"World Health Organization",
     "Description":"(Region) to provide humanitarian assistance for fight against Ebola epidemic (The Scottish Government)\n\n",
     "Funding":844500,
     "Committed":"Committed",
     "Area":"Region"
   },
   {
-    "Donor":"United Kingdom ",
+    "Donor":"United Nations Fund for International Partnerships",
     "Channel":"World Health Organization",
-    "Description":"(Sierra Leone) Ebola Response",
-    "Funding":317850,
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa\n",
+    "Funding":1015287,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"International Federation of Red Cross and Red Crescent Societies",
+    "Description":"(Sierra Leone) Health (USAID/OFDA)",
+    "Funding":7000000,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
@@ -2753,19 +3345,27 @@ var data = [
   },
   {
     "Donor":"United States of America",
-    "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Sierra Leone) Health (USAID/OFDA)",
-    "Funding":3500000,
+    "Channel":"International Medical Corps",
+    "Description":"(Liberia) Health (USAID/OFDA)",
+    "Funding":19674298,
     "Committed":"Committed",
-    "Area":"Sierra Leone"
+    "Area":"Liberia"
   },
   {
     "Donor":"United States of America",
-    "Channel":"International Medical Corps",
-    "Description":"(Liberia) Health (USAID/OFDA)",
-    "Funding":10841404,
+    "Channel":"International Organization for Migration",
+    "Description":"(Guinea) Ebola response (USAID/OFDA)",
+    "Funding":2000000,
     "Committed":"Committed",
-    "Area":"Liberia"
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"International Organization for Migration",
+    "Description":"(Sierra Leone) Ebola response (USAID/OFDA)",
+    "Funding":1469410,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"United States of America",
@@ -2779,7 +3379,7 @@ var data = [
     "Donor":"United States of America",
     "Channel":"Plan International",
     "Description":"(Guinea) Health (USAID/OFDA)",
-    "Funding":1028074,
+    "Funding":2111738,
     "Committed":"Committed",
     "Area":"Guinea"
   },
@@ -2788,6 +3388,22 @@ var data = [
     "Channel":"Plan International",
     "Description":"(Guinea) New Award project to support the ongoing effort to combat Ebola transmission in Guinea through intensified social mobilization and improved contact tracing in four Regions, covering the cities of Conakry, Nzerekore, Gueckedou, Macenta, Yomou, Kissidougou, Coyah, Forecariah, Dubreka, and Telimele. infections.",
     "Funding":815909,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"Plan International",
+    "Description":"(Liberia) Health",
+    "Funding":1508821,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"Save the Children ",
+    "Description":"(Guinea) Ebola response",
+    "Funding":1499203,
     "Committed":"Committed",
     "Area":"Guinea"
   },
@@ -2802,6 +3418,46 @@ var data = [
   {
     "Donor":"United States of America",
     "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Health (USAID/OFDA)",
+    "Funding":2224044,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Health, (USAID/OFDA)",
+    "Funding":38903581,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Ebola response (USAID/OFDA)",
+    "Funding":1000000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Mali) Ebola response (USAID/OFDA)",
+    "Funding":400000,
+    "Committed":"Committed",
+    "Area":"Mali"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Health, (USAID/OFDA)",
+    "Funding":2500000,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"United Nations Children's Fund",
     "Description":"(Sierra Leone) Health, WASH (USAID/OFDA)",
     "Funding":1584214,
     "Committed":"Committed",
@@ -2810,16 +3466,16 @@ var data = [
   {
     "Donor":"United States of America",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Ebola Response (USAID/OFDA)",
-    "Funding":3301560,
+    "Description":"(Liberia) Logistics Support and Relief Commodities (USAID/OFDA)",
+    "Funding":680333,
     "Committed":"Committed",
     "Area":"Liberia"
   },
   {
     "Donor":"United States of America",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Health (USAID/OFDA)",
-    "Funding":2224044,
+    "Description":"(Liberia) Ebola Response (USAID/OFDA)",
+    "Funding":3301560,
     "Committed":"Committed",
     "Area":"Liberia"
   },
@@ -2833,6 +3489,14 @@ var data = [
   },
   {
     "Donor":"United States of America",
+    "Channel":"United Nations High Commissioner for Refugees",
+    "Description":"Response to the Ebola Crisis (STATE/PRM)\n",
+    "Funding":1995000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"United States of America",
     "Channel":"United Nations Office for Project Services",
     "Description":"(Liberia) Ebola response - Logistics Support and Relief Commodities(USAID/OFDA)",
     "Funding":6875724,
@@ -2842,24 +3506,16 @@ var data = [
   {
     "Donor":"United States of America",
     "Channel":"World Food Programme",
-    "Description":"(Region) Regional emergency operation (USAID/FFP)",
-    "Funding":7799464,
+    "Description":"(Liberia) Ebola Response ",
+    "Funding":40671686,
     "Committed":"Committed",
-    "Area":"Region"
+    "Area":"Liberia"
   },
   {
     "Donor":"United States of America",
     "Channel":"World Food Programme",
-    "Description":"(Region) Regional EMOP - 200761 - Support to Populations in Areas Affected by the Ebola Outbreak  in West Africa ",
-    "Funding":3558253,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"United States of America",
-    "Channel":"World Food Programme",
-    "Description":"(Region) Regional Special Operation - 200760 - Logistics Support and Relief Commodities (through UNHAS) (USAID/OFDA)",
-    "Funding":250000,
+    "Description":"(Region) Ebola Response ",
+    "Funding":2953715,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2881,9 +3537,41 @@ var data = [
   },
   {
     "Donor":"United States of America",
-    "Channel":"World Health Organization",
-    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa (US/DoS)",
-    "Funding":150000,
+    "Channel":"World Food Programme",
+    "Description":"(Region) Regional emergency operation (USAID/FFP)",
+    "Funding":9846423,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"World Food Programme",
+    "Description":"(Guinea) Ebola response - Logistics ",
+    "Funding":2500000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Ebola Response ",
+    "Funding":13081229,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Regional Special Operation - 200760 - Logistics Support and Relief Commodities (through UNHAS) (USAID/OFDA)",
+    "Funding":250000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"World Food Programme",
+    "Description":"(Region) Regional EMOP - 200761 - Support to Populations in Areas Affected by the Ebola Outbreak  in West Africa ",
+    "Funding":3558253,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2906,8 +3594,48 @@ var data = [
   {
     "Donor":"United States of America",
     "Channel":"World Health Organization",
+    "Description":"(Region) WHO - Ebola Virus Diseases Outbreak response in west Africa (US/DoS)",
+    "Funding":150000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"United States of America",
+    "Channel":"World Health Organization",
     "Description":"(Region) Health (USAID/GH)",
     "Funding":6400000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"US Fund for UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Response to Ebola outbreak",
+    "Funding":95000,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"US Fund for UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Ebola Response ",
+    "Funding":800000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"US Fund for UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) Ebola Response ",
+    "Funding":1100000,
+    "Committed":"Committed",
+    "Area":"Region"
+  },
+  {
+    "Donor":"US Fund for UNICEF",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Region) WCARO RO - Response to Ebola outbreak ",
+    "Funding":400000,
     "Committed":"Committed",
     "Area":"Region"
   },
@@ -2930,42 +3658,66 @@ var data = [
   {
     "Donor":"US Fund for UNICEF",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Region) WCARO RO - Response to Ebola outbreak ",
-    "Funding":400000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"US Fund for UNICEF",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Ebola Response ",
-    "Funding":1100000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"US Fund for UNICEF",
-    "Channel":"United Nations Children's Fund",
-    "Description":"(Region) Ebola Response ",
-    "Funding":800000,
-    "Committed":"Committed",
-    "Area":"Region"
-  },
-  {
-    "Donor":"US Fund for UNICEF",
-    "Channel":"United Nations Children's Fund",
     "Description":"(Sierra Leone) Response to Ebola outbreak",
     "Funding":18086,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
   {
-    "Donor":"US Fund for UNICEF",
+    "Donor":"Various Donors (details not yet provided)",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) Response to Ebola outbreak",
-    "Funding":95000,
+    "Description":"(Togo) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":100000,
+    "Committed":"Committed",
+    "Area":"Togo"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Mauritania) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":50000,
+    "Committed":"Committed",
+    "Area":"Mauritania"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Response to Ebola outbreak (Regional Allotment)",
+    "Funding":106998,
     "Committed":"Committed",
     "Area":"Liberia"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Mali) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":140000,
+    "Committed":"Committed",
+    "Area":"Mali"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Senegal) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":300000,
+    "Committed":"Committed",
+    "Area":"Senegal"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":200000,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) Response to Ebola outbreak (Regional Allotment)",
+    "Funding":213998,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"Various Donors (details not yet provided)",
@@ -2974,6 +3726,70 @@ var data = [
     "Funding":419975,
     "Committed":"Committed",
     "Area":"Guinea"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Benin) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":90000,
+    "Committed":"Committed",
+    "Area":"Benin"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Burkina Faso) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":100000,
+    "Committed":"Committed",
+    "Area":"Burkina Faso"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Cote d'Ivoire) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":40000,
+    "Committed":"Committed",
+    "Area":"Cote D'Ivoire"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Gambia) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":140000,
+    "Committed":"Committed",
+    "Area":"Gambia"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":435000,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea) Response to Ebola outbreak (Regional Allotment)",
+    "Funding":213998,
+    "Committed":"Committed",
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Guinea-Bissau) Response to Ebola outbreak (Regional Thematic(Allotment)",
+    "Funding":240000,
+    "Committed":"Committed",
+    "Area":"Guinea-Bissau"
+  },
+  {
+    "Donor":"Various Donors (details not yet provided)",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) Response to Ebola outbreak (Regional Thematic (Allotment)",
+    "Funding":850000,
+    "Committed":"Committed",
+    "Area":"Liberia"
   },
   {
     "Donor":"Various Donors (details not yet provided)",
@@ -3034,18 +3850,26 @@ var data = [
   {
     "Donor":"World Bank",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) essential drugs and supplies",
-    "Funding":1003091,
+    "Description":"(Guinea) Ebola Response",
+    "Funding":4122850,
     "Committed":"Committed",
-    "Area":"Sierra Leone"
+    "Area":"Guinea"
   },
   {
     "Donor":"World Bank",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) PPEs and social mobilization",
-    "Funding":8941626,
+    "Description":"(Guinea) Ebola Response",
+    "Funding":1877150,
     "Committed":"Committed",
-    "Area":"Sierra Leone"
+    "Area":"Guinea"
+  },
+  {
+    "Donor":"World Bank",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Liberia) drugs and equipment",
+    "Funding":5100000,
+    "Committed":"Committed",
+    "Area":"Liberia"
   },
   {
     "Donor":"World Bank",
@@ -3058,10 +3882,18 @@ var data = [
   {
     "Donor":"World Bank",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) drugs and equipment",
-    "Funding":5100000,
+    "Description":"(Sierra Leone) essential drugs and supplies",
+    "Funding":1003091,
     "Committed":"Committed",
-    "Area":"Liberia"
+    "Area":"Sierra Leone"
+  },
+  {
+    "Donor":"World Bank",
+    "Channel":"United Nations Children's Fund",
+    "Description":"(Sierra Leone) PPEs and social mobilization",
+    "Funding":8941626,
+    "Committed":"Committed",
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"World Bank",
@@ -3090,22 +3922,6 @@ var data = [
   {
     "Donor":"World Bank",
     "Channel":"Various Recipients (details not yet provided)",
-    "Description":"(Guinea) Support for emergency response to the Ebola crisis (remaining balance of $25 m grant to the Government of Guinea)",
-    "Funding":4122850,
-    "Committed":"Committed",
-    "Area":"Guinea"
-  },
-  {
-    "Donor":"World Bank",
-    "Channel":"Various Recipients (details not yet provided)",
-    "Description":"(Liberia) Support for emergency response to the Ebola crisis (remaining balance of $52 million grant to the Government of Liberia)",
-    "Funding":20778594,
-    "Committed":"Committed",
-    "Area":"Liberia"
-  },
-  {
-    "Donor":"World Bank",
-    "Channel":"Various Recipients (details not yet provided)",
     "Description":"(region) additional new grant to the Ebola Emergency Response Project (to be channeled through the Governments of Guinea, Liberia and Sierra Leone)",
     "Funding":112500000,
     "Committed":"Pledged",
@@ -3121,19 +3937,19 @@ var data = [
   },
   {
     "Donor":"World Bank",
-    "Channel":"World Food Programme",
-    "Description":"(Liberia) food supply to quarantined and Ebola-affected population (through the Government of Liberia)",
-    "Funding":5600000,
-    "Committed":"Committed",
-    "Area":"Liberia"
+    "Channel":"Various Recipients (details not yet provided)",
+    "Description":"(Guinea) Support for emergency response to the Ebola crisis (fully allocated)",
+    "Funding":0,
+    "Committed":"Pledged",
+    "Area":"Guinea"
   },
   {
     "Donor":"World Bank",
-    "Channel":"World Food Programme",
-    "Description":"(Sierra Leone) food supply to quarantined and Ebola-affected population (through the Government of Sierra Leone)",
-    "Funding":6000000,
+    "Channel":"Various Recipients (details not yet provided)",
+    "Description":"(Liberia) Support for emergency response to the Ebola crisis (remaining balance of $52 million grant to the Government of Liberia)",
+    "Funding":20778594,
     "Committed":"Committed",
-    "Area":"Sierra Leone"
+    "Area":"Liberia"
   },
   {
     "Donor":"World Bank",
@@ -3146,6 +3962,14 @@ var data = [
   {
     "Donor":"World Bank",
     "Channel":"World Food Programme",
+    "Description":"(Liberia) food supply to quarantined and Ebola-affected population (through the Government of Liberia)",
+    "Funding":5600000,
+    "Committed":"Committed",
+    "Area":"Liberia"
+  },
+  {
+    "Donor":"World Bank",
+    "Channel":"World Food Programme",
     "Description":"(Sierra Leone) vehicles",
     "Funding":3500000,
     "Committed":"Committed",
@@ -3153,19 +3977,19 @@ var data = [
   },
   {
     "Donor":"World Bank",
-    "Channel":"World Health Organization",
-    "Description":"(Guinea) case management, surveillance, training, lab, logistics",
-    "Funding":2294110,
+    "Channel":"World Food Programme",
+    "Description":"(Sierra Leone) food supply to quarantined and Ebola-affected population (through the Government of Sierra Leone)",
+    "Funding":6000000,
     "Committed":"Committed",
-    "Area":"Guinea"
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"World Bank",
     "Channel":"World Health Organization",
-    "Description":"(Guinea-Bissau) Ebola Response",
-    "Funding":500000,
+    "Description":"(Sierra Leone) external health workers",
+    "Funding":2800000,
     "Committed":"Committed",
-    "Area":"Guinea-Bissau"
+    "Area":"Sierra Leone"
   },
   {
     "Donor":"World Bank",
@@ -3178,9 +4002,17 @@ var data = [
   {
     "Donor":"World Bank",
     "Channel":"World Health Organization",
-    "Description":"(Sierra Leone) external health workers",
-    "Funding":2800000,
+    "Description":"(Guinea-Bissau) Ebola Response",
+    "Funding":500000,
     "Committed":"Committed",
-    "Area":"Sierra Leone"
+    "Area":"Guinea-Bissau"
+  },
+  {
+    "Donor":"World Bank",
+    "Channel":"World Health Organization",
+    "Description":"(Guinea) case management, surveillance, training, lab, logistics",
+    "Funding":2294110,
+    "Committed":"Committed",
+    "Area":"Guinea"
   }
 ];

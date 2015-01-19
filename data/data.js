@@ -218,14 +218,14 @@ var data = [
   {
     "Donor":"Belgium",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Liberia) Contribuer � la r�duction de la mortalit� et de la morbidit� provoqu�e par le virus Ebola au Liberia (NH/2014/08 - 3016237)",
+    "Description":"(Liberia) Contribuer à la réduction de la mortalité et de la morbidité provoquée par le virus Ebola au Liberia (NH/2014/08 - 3016237)",
     "Funding":2541601,
     "Committed":"Committed",
     "Area":"Liberia"
   },
   {
     "Donor":"Belgium",
-    "Channel":"M�decins sans Fronti�res - Belgium",
+    "Channel":"Médecins sans Frontières - Belgium",
     "Description":"(Region) Emergency Response to an haemorrhagic fever outbreak (Ebola) in Guinea, Sierra Leone and Liberia (NH/2014/08 - 3016235)",
     "Funding":3811944,
     "Committed":"Committed",
@@ -234,7 +234,7 @@ var data = [
   {
     "Donor":"Belgium",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Liberia) L'objectif global est de mettre fin � la transmission partout dans le monde dans le 6 � 9 mois, tout en g�rant rapidement les cons�quences de toute nouvelle propagation internationale �ventuelle (NH/2014/09 - 3016238)",
+    "Description":"(Liberia) L'objectif global est de mettre fin à la transmission partout dans le monde dans le 6 à 9 mois, tout en gérant rapidement les conséquences de toute nouvelle propagation internationale éventuelle (NH/2014/09 - 3016238)",
     "Funding":2490660,
     "Committed":"Committed",
     "Area":"Liberia"
@@ -505,7 +505,7 @@ var data = [
   },
   {
     "Donor":"Canada",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) MSF Emergency Response to Ebola in Guinea, Sierra Leone, Liberia and region (D001306)\n",
     "Funding":918274,
     "Committed":"Committed",
@@ -513,7 +513,7 @@ var data = [
   },
   {
     "Donor":"Canada",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Guinea) MSF Emergency Response to Ebola in Guinea and region\n (D-000777)",
     "Funding":633484,
     "Committed":"Committed",
@@ -521,7 +521,7 @@ var data = [
   },
   {
     "Donor":"Canada",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) MSF Emergency Response to Ebola in Guinea, Sierra Leone, Liberia and region (D001306)\n",
     "Funding":2224199,
     "Committed":"Committed",
@@ -682,7 +682,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"United Nations Children's Fund",
-    "Description":"(DRC) Riposte � l��pid�mie de la Maladie virale �bola dans la Province de l��quateur, en RDC",
+    "Description":"(DRC) Riposte à l’épidémie de la Maladie virale Ébola dans la Province de l’Équateur, en RDC",
     "Funding":535508,
     "Committed":"Committed",
     "Area":"DRC"
@@ -714,7 +714,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Promouvoir et renforcer des comportements de pr�vention et de lutte contre la  fi�vre h�morragique � virus  Ebola et soutenir les veuves et les orphelins caus�s par cette maladie",
+    "Description":"(Guinea) Promouvoir et renforcer des comportements de prévention et de lutte contre la  fièvre hémorragique à virus  Ebola et soutenir les veuves et les orphelins causés par cette maladie",
     "Funding":995549,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -722,7 +722,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Guinea) Promouvoir des comportements de pr�vention et de lutte contre la  fi�vre h�morragique virale  Ebola dans les districts sanitaires de Gu�ckedou, Macenta, Kissidougou et Conakry",
+    "Description":"(Guinea) Promouvoir des comportements de prévention et de lutte contre la  fièvre hémorragique virale  Ebola dans les districts sanitaires de Guéckedou, Macenta, Kissidougou et Conakry",
     "Funding":505436,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -730,7 +730,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"United Nations Population Fund",
-    "Description":"(Guinea) Pr�vention de la transmission de la fi�vre h�morragique en direction des jeunes et des femmes en ceinte dans les  pr�fectures � haute pr�valence �pid�miologique",
+    "Description":"(Guinea) Prévention de la transmission de la fièvre hémorragique en direction des jeunes et des femmes en ceinte dans les  préfectures à haute prévalence épidémiologique",
     "Funding":135738,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -738,7 +738,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"United Nations Population Fund",
-    "Description":"(Guinea) Projet de pr�vention de la transmission de la fi�vre h�morragique en direction des jeunes et des femmes enceinte dans les  pr�fectures � haute pr�valence �pid�miologique",
+    "Description":"(Guinea) Projet de prévention de la transmission de la fièvre hémorragique en direction des jeunes et des femmes enceinte dans les  préfectures à haute prévalence épidémiologique",
     "Funding":448444,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -746,7 +746,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Food Programme",
-    "Description":"(Guinea) Assistance alimentaire d�urgence en faveur des personnes affect�es et particuli�rement vuln�rables de l��pid�mie Ebola dans la r�gion foresti�re",
+    "Description":"(Guinea) Assistance alimentaire d’urgence en faveur des personnes affectées et particulièrement vulnérables de l’épidémie Ebola dans la région forestière",
     "Funding":294633,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -786,7 +786,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Food Programme",
-    "Description":"(Guinea) Projet d�assistance alimentaire d�urgence en faveur des personnes affect�es par l��pid�mie EBOLA et particuli�rement vuln�rables � l�ins�curit� alimentaire en Guin�e.",
+    "Description":"(Guinea) Projet d’assistance alimentaire d’urgence en faveur des personnes affectées par l’épidémie EBOLA et particulièrement vulnérables à l’insécurité alimentaire en Guinée.",
     "Funding":2612224,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -794,7 +794,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Health Organization",
-    "Description":"(Guinea) Projet d�appui � l�arr�t de la transmission du virus Ebola dans les zones touch�es et pr�venir la propagation de l'�pid�mie � de nouvelles zones en Guin�e",
+    "Description":"(Guinea) Projet d’appui à l’arrêt de la transmission du virus Ebola dans les zones touchées et prévenir la propagation de l'épidémie à de nouvelles zones en Guinée",
     "Funding":554766,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -802,7 +802,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Health Organization",
-    "Description":"Democratic Republic of the Congo - Riposte � l��pid�mie de la Maladie Virale �bola dans la Province de l��quateur, en RDC",
+    "Description":"Democratic Republic of the Congo - Riposte à l’épidémie de la Maladie Virale Ébola dans la Province de l’Équateur, en RDC",
     "Funding":1419887,
     "Committed":"Committed",
     "Area":"DRC"
@@ -834,7 +834,7 @@ var data = [
   {
     "Donor":"Central Emergency Response Fund",
     "Channel":"World Health Organization",
-    "Description":"(Guinea) Projet de riposte � l��pid�mie de Fi�vre h�morragique virale Ebola en Guin�e",
+    "Description":"(Guinea) Projet de riposte à l’épidémie de Fièvre hémorragique virale Ebola en Guinée",
     "Funding":519313,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -865,7 +865,7 @@ var data = [
   },
   {
     "Donor":"Children's Investment Fund Foundation",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) To help front line work in West Africa to treat, contain and control the spread of the Ebola outbreak.",
     "Funding":2000000,
     "Committed":"Committed",
@@ -890,7 +890,7 @@ var data = [
   {
     "Donor":"Children's Investment Fund Foundation",
     "Channel":"Various Recipients (details not yet provided)",
-    "Description":"(region) $20 million commitment made at the Defeating Ebola Conference in London on 2 October. CIFF�s $20 million commitment is the biggest it has ever made to a humanitarian crisis.  It is based on an assessment that the Ebola outbreak poses an unprecedented threat that can be stopped with quick, effective and coordinated action.",
+    "Description":"(region) $20 million commitment made at the Defeating Ebola Conference in London on 2 October. CIFF’s $20 million commitment is the biggest it has ever made to a humanitarian crisis.  It is based on an assessment that the Ebola outbreak poses an unprecedented threat that can be stopped with quick, effective and coordinated action.",
     "Funding":3800000,
     "Committed":"Pledged",
     "Area":"Region"
@@ -969,7 +969,7 @@ var data = [
   },
   {
     "Donor":"Czech Republic",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Liberia) Urgent assistance (117429/2014-ORS)",
     "Funding":142180,
     "Committed":"Committed",
@@ -1009,7 +1009,7 @@ var data = [
   },
   {
     "Donor":"Denmark",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Sierra Leone) Establishment of isolation units, training of hospital crew, psychological aid for affected patients, families and local community, monitor and respond to new outbreaks, awareness campaigns (46.H.7-7-141)",
     "Funding":182249,
     "Committed":"Committed",
@@ -1122,7 +1122,7 @@ var data = [
   {
     "Donor":"Denmark",
     "Channel":"World Health Organization",
-    "Description":"(Mali) to support WHO�s preparedness plan in Mali\n \n",
+    "Description":"(Mali) to support WHO’s preparedness plan in Mali\n \n",
     "Funding":819672,
     "Committed":"Committed",
     "Area":"Mali"
@@ -1186,7 +1186,7 @@ var data = [
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
     "Channel":"French Red Cross",
-    "Description":"(Guinea) R�ponse � l'�pid�mie de Fi�vre H�morragique � virus Ebola en R�publique de Guin�e (ECHO/-WF/EDF/2014/02010)",
+    "Description":"(Guinea) Réponse à l'épidémie de Fièvre Hémorragique à virus Ebola en République de Guinée (ECHO/-WF/EDF/2014/02010)",
     "Funding":4230439,
     "Committed":"Committed",
     "Area":"Guinea"
@@ -1209,7 +1209,7 @@ var data = [
   },
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
-    "Channel":"M�decins sans Fronti�res - Switzerland",
+    "Channel":"Médecins sans Frontières - Switzerland",
     "Description":"LIBERIA (Monrovia)- Emergency response to the Ebola outbreak (ECHO/-WF/EDF/2014/02001)",
     "Funding":1317523,
     "Committed":"Committed",
@@ -1217,7 +1217,7 @@ var data = [
   },
   {
     "Donor":"European Commission's Humanitarian Aid and Civil Protection Department",
-    "Channel":"M�decins sans Fronti�res - Switzerland",
+    "Channel":"Médecins sans Frontières - Switzerland",
     "Description":"(Guinea) Small-scale/epid. / Response multidisciplinary to an Hemorrhagic Fever Outbreak in Guinea, Sierra Leone and Lofa County in Liberia. (ECHO/DRF/BUD/2014/93001)",
     "Funding":2613480,
     "Committed":"Committed",
@@ -1370,14 +1370,14 @@ var data = [
   {
     "Donor":"Germany",
     "Channel":"German Red Cross",
-    "Description":"(Sierra Leone) Medizinische Nothilfe zur Eind�mmung der Ebola-Epidemie in Westafrika (VN05 321.50 SLE 09/14)",
+    "Description":"(Sierra Leone) Medizinische Nothilfe zur Eindämmung der Ebola-Epidemie in Westafrika (VN05 321.50 SLE 09/14)",
     "Funding":28245902,
     "Committed":"Committed",
     "Area":"Sierra Leone"
   },
   {
     "Donor":"Germany",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Guinea) Emergency medical assistance at the outbreak of hemorrhagic fever (Ebola) in West Africa (VN05 321.50 GIN 01/14)",
     "Funding":345781,
     "Committed":"Committed",
@@ -1385,7 +1385,7 @@ var data = [
   },
   {
     "Donor":"Germany",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Sierra Leone) Emergency medical assistance during an outbreak of hemorrhagic fever in West Africa (VN05 321.50 SLE 01/14)",
     "Funding":668449,
     "Committed":"Committed",
@@ -1554,7 +1554,7 @@ var data = [
   {
     "Donor":"Google",
     "Channel":"Various Recipients (details not yet provided)",
-    "Description":"(Region) To match donations on a two-to-one basis, up to $5 million, made via Network for Good, with the goal of raising a total of $7.5 million.  These will be for International Rescue Committee,�Medecins Sans Frontieres,�Partners in Health,�and Save the Children (via donor advised fund Network for Good)",
+    "Description":"(Region) To match donations on a two-to-one basis, up to $5 million, made via Network for Good, with the goal of raising a total of $7.5 million.  These will be for International Rescue Committee, Medecins Sans Frontieres, Partners in Health, and Save the Children (via donor advised fund Network for Good)",
     "Funding":5000000,
     "Committed":"Pledged",
     "Area":"Region"
@@ -1617,7 +1617,7 @@ var data = [
   },
   {
     "Donor":"IKEA Foundation",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(region) support for patients and their families in Guinea, Liberia, Nigeria, Senegal, Sierra Leone and the Democratic Republic of the Congo. ",
     "Funding":6587615,
     "Committed":"Pledged",
@@ -1690,7 +1690,7 @@ var data = [
   {
     "Donor":"Italy",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Sierra Leone) Multilateral contribution to the IFRC emergency appeal called �Sierra Leone: Ebola Virus Disease� to contribute to the reduction of mortality and morbidity related to the Ebola Virus Disease in Sierra Leone through community awareness and social mobilisation, contact tracing and surveillance, provision of psychosocial support, safe and dignified burials, treatment of affected people in the Ebola Treatment Centre in Kenema",
+    "Description":"(Sierra Leone) Multilateral contribution to the IFRC emergency appeal called “Sierra Leone: Ebola Virus Disease” to contribute to the reduction of mortality and morbidity related to the Ebola Virus Disease in Sierra Leone through community awareness and social mobilisation, contact tracing and surveillance, provision of psychosocial support, safe and dignified burials, treatment of affected people in the Ebola Treatment Centre in Kenema",
     "Funding":1261034,
     "Committed":"Committed",
     "Area":"Sierra Leone"
@@ -1698,7 +1698,7 @@ var data = [
   {
     "Donor":"Italy",
     "Channel":"United Nations Children's Fund",
-    "Description":"(Sierra Leone) Multilateral contribution to sustain the UNICEF activities in Sierra Leone within the framework of the�Ebola Outbreak Response in West Africa� (in line with the UN inter-agency plan �UN Ebola Regional Response Strategy�) to control the outbreak, ensure the continuity of essential social services and support unaccompanied/separated/orphaned/abandoned children",
+    "Description":"(Sierra Leone) Multilateral contribution to sustain the UNICEF activities in Sierra Leone within the framework of the“Ebola Outbreak Response in West Africa” (in line with the UN inter-agency plan “UN Ebola Regional Response Strategy”) to control the outbreak, ensure the continuity of essential social services and support unaccompanied/separated/orphaned/abandoned children",
     "Funding":1245330,
     "Committed":"Committed",
     "Area":"Sierra Leone"
@@ -1714,7 +1714,7 @@ var data = [
   {
     "Donor":"Italy",
     "Channel":"World Health Organization",
-    "Description":"(Region) Multilateral contribution: Support to WHO (on the basis of the �Ebola Response Roadmap� issued by the Organization) to stop the Ebola transmission in affected countries (Guinea Conakry, Liberia, Sierra Leone and Nigeria) and to reduce mortality in the affected population",
+    "Description":"(Region) Multilateral contribution: Support to WHO (on the basis of the “Ebola Response Roadmap” issued by the Organization) to stop the Ebola transmission in affected countries (Guinea Conakry, Liberia, Sierra Leone and Nigeria) and to reduce mortality in the affected population",
     "Funding":301370,
     "Committed":"Committed",
     "Area":"Region"
@@ -1722,7 +1722,7 @@ var data = [
   {
     "Donor":"Italy",
     "Channel":"World Health Organization",
-    "Description":"(Region) Ebola Virus disease outbreak response, Guinea� to control the spread of Ebola Virus disease in affected districts, including Guekedou, Macenta and Kissidougou, reduce mortality in the affected population, and heighten outbreak response preparations in neighbouring districts and areas of Guinea ",
+    "Description":"(Region) Ebola Virus disease outbreak response, Guinea” to control the spread of Ebola Virus disease in affected districts, including Guekedou, Macenta and Kissidougou, reduce mortality in the affected population, and heighten outbreak response preparations in neighbouring districts and areas of Guinea ",
     "Funding":275103,
     "Committed":"Committed",
     "Area":"Region"
@@ -1897,7 +1897,7 @@ var data = [
   },
   {
     "Donor":"Kaiser Permanente",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) To support direct medical care and treatment facilites\n",
     "Funding":500000,
     "Committed":"Committed",
@@ -1953,7 +1953,7 @@ var data = [
   },
   {
     "Donor":"Liechtenstein",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) Ebola response",
     "Funding":52632,
     "Committed":"Committed",
@@ -1969,7 +1969,7 @@ var data = [
   },
   {
     "Donor":"Luxembourg",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Guinea) Medical aid (AH/MSF/2014/0002)",
     "Funding":136054,
     "Committed":"Committed",
@@ -2049,7 +2049,7 @@ var data = [
   },
   {
     "Donor":"Netherlands",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Sierra Leone) Ebola response activities in Sierra Leone, Kailahun Project. (27078 (DSH0119616))",
     "Funding":1251564,
     "Committed":"Committed",
@@ -2057,7 +2057,7 @@ var data = [
   },
   {
     "Donor":"Netherlands",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Guinea) Emergency medical response to hemorrhagic fever outbreak in Guinea and nearby countries (26837 (DSH0118706)",
     "Funding":658762,
     "Committed":"Committed",
@@ -2233,7 +2233,7 @@ var data = [
   },
   {
     "Donor":"Norway",
-    "Channel":"M�decins sans Fronti�res - Norway",
+    "Channel":"Médecins sans Frontières - Norway",
     "Description":"(Region) Ebola Response ( QZA-14/0235)",
     "Funding":798212,
     "Committed":"Committed",
@@ -2241,7 +2241,7 @@ var data = [
   },
   {
     "Donor":"Norway",
-    "Channel":"M�decins sans Fronti�res - Norway",
+    "Channel":"Médecins sans Frontières - Norway",
     "Description":"(Region) Ebola Response (RAF-14/0045)",
     "Funding":1131039,
     "Committed":"Committed",
@@ -2249,7 +2249,7 @@ var data = [
   },
   {
     "Donor":"Norway",
-    "Channel":"M�decins sans Fronti�res - Norway",
+    "Channel":"Médecins sans Frontières - Norway",
     "Description":"(Guinea) QZA-14/0235-3/Emergency medical response to a Haemorrhagic Fever Outbreak in Guinea and neighbouring countries.\n",
     "Funding":670466,
     "Committed":"Committed",
@@ -2369,7 +2369,7 @@ var data = [
   },
   {
     "Donor":"Paul G. Allen",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"Region - Logistics, freight, storage, medical supplies, portable labs, training of volunteers, staffing in treatment centers, nutrition packets",
     "Funding":1300000,
     "Committed":"Committed",
@@ -2378,7 +2378,7 @@ var data = [
   {
     "Donor":"Paul G. Allen",
     "Channel":"Save the Children ",
-    "Description":"(LIBERIA) To support efforts to provide health care, comfort and education to Liberia�s children; Hiring of local staff to help implement projects, community outreach and sensitization, emergency education to students out of school due to Ebola, support family tracing for orphans of Ebola ",
+    "Description":"(LIBERIA) To support efforts to provide health care, comfort and education to Liberia’s children; Hiring of local staff to help implement projects, community outreach and sensitization, emergency education to students out of school due to Ebola, support family tracing for orphans of Ebola ",
     "Funding":6600000,
     "Committed":"Committed",
     "Area":"Liberia"
@@ -2529,7 +2529,7 @@ var data = [
   },
   {
     "Donor":"Private (individuals & organisations)",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) Olam Foundation Limited contributes to the fight against Ebola.",
     "Funding":2000000,
     "Committed":"Committed",
@@ -2705,7 +2705,7 @@ var data = [
   },
   {
     "Donor":"Prudential Financial, Inc.",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(REGION) To fight and help control the outbreak in Western Africa",
     "Funding":300000,
     "Committed":"Pledged",
@@ -2776,7 +2776,7 @@ var data = [
     "Area":"Region"
   },
   {
-    "Donor":"Soci�t� Anglogold Ashanti de Guin�e",
+    "Donor":"Société Anglogold Ashanti de Guinée",
     "Channel":"World Health Organization",
     "Description":"(Guinea) WHO - Ebola Virus Diseases Outbreak response in west Africa\n ",
     "Funding":50000,
@@ -2818,7 +2818,7 @@ var data = [
   {
     "Donor":"Spain",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(Cote d'Ivoire) To prepare the Cote d�Ivoire Red Cross through reinforcement of volunteers andmaterial. (MDRCI006)",
+    "Description":"(Cote d'Ivoire) To prepare the Cote d’Ivoire Red Cross through reinforcement of volunteers andmaterial. (MDRCI006)",
     "Funding":13305,
     "Committed":"Committed",
     "Area":"Cote D'Ivoire"
@@ -2866,7 +2866,7 @@ var data = [
   {
     "Donor":"Spain",
     "Channel":"World Food Programme",
-    "Description":"(Region) UNHAS. To provide common air services to some of the world�s most remote and challenging locations. To facilitate the rapid deployment of humanitarian staff to support the Ebola response and the delivery of light cargo. ",
+    "Description":"(Region) UNHAS. To provide common air services to some of the world’s most remote and challenging locations. To facilitate the rapid deployment of humanitarian staff to support the Ebola response and the delivery of light cargo. ",
     "Funding":189155,
     "Committed":"Committed",
     "Area":"Region"
@@ -2881,7 +2881,7 @@ var data = [
   },
   {
     "Donor":"Stavros Niarchos Foundation",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Region) Emergency relief grant to the international non-profit organization Doctors Without Borders, to help combat the Ebola outbreak in West Africa; Moreover, part of the grant will be used to provide support for the Sudanese refugee camps in Ethiopia,\n",
     "Funding":500000,
     "Committed":"Pledged",
@@ -2905,7 +2905,7 @@ var data = [
   },
   {
     "Donor":"Sweden",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Liberia) Emergency response to ebola outbreak",
     "Funding":687758,
     "Committed":"Committed",
@@ -2913,7 +2913,7 @@ var data = [
   },
   {
     "Donor":"Sweden",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Liberia) Emergency response to ebola outbreak",
     "Funding":687758,
     "Committed":"Committed",
@@ -2921,7 +2921,7 @@ var data = [
   },
   {
     "Donor":"Sweden",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Sierra Leone) Emergency response to ebola outbreak",
     "Funding":687758,
     "Committed":"Committed",
@@ -2929,7 +2929,7 @@ var data = [
   },
   {
     "Donor":"Sweden",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Guinea) Medical Response to the Measles Outbreak in Matoto, Matam and Ratoma Health District",
     "Funding":306279,
     "Committed":"Committed",
@@ -3194,7 +3194,7 @@ var data = [
   {
     "Donor":"Sweden",
     "Channel":"World Health Organization",
-    "Description":"(Region) WHO�s regional appeal for Ebola response",
+    "Description":"(Region) WHO´s regional appeal for Ebola response",
     "Funding":900000,
     "Committed":"Committed",
     "Area":"Region"
@@ -3225,7 +3225,7 @@ var data = [
   },
   {
     "Donor":"Switzerland",
-    "Channel":"M�decins sans Fronti�res - Switzerland",
+    "Channel":"Médecins sans Frontières - Switzerland",
     "Description":"(Liberia) Support to Ebola early response in Liberia (7F-09159.01)",
     "Funding":525000,
     "Committed":"Committed",
@@ -3233,7 +3233,7 @@ var data = [
   },
   {
     "Donor":"Switzerland",
-    "Channel":"M�decins sans Fronti�res - Switzerland",
+    "Channel":"Médecins sans Frontières - Switzerland",
     "Description":"(Liberia) Support to Ebola emergency response in Lofa County - Liberia ",
     "Funding":1050000,
     "Committed":"Committed",
@@ -3681,7 +3681,7 @@ var data = [
   },
   {
     "Donor":"United Kingdom ",
-    "Channel":"M�decins sans Fronti�res",
+    "Channel":"Médecins sans Frontières",
     "Description":"(Sierra Leone) Support the response to Ebola outbreak in West Africa (204838)",
     "Funding":1243781,
     "Committed":"Committed",
@@ -4450,7 +4450,7 @@ var data = [
   {
     "Donor":"Western Union Foundation",
     "Channel":"International Medical Corps",
-    "Description":"(Region) To support the organization�s response actions, which includes teams of trainers traveling in affected areas of Sierra Leone and Liberiato increase the number of trained, frontline healthcare workers equipped with the skills needed to manage the disease, and also to train communities on prevention. ADDITIONALLY: no fee transfers, and Western Union will match two-for-one employee donations up to $25,000.",
+    "Description":"(Region) To support the organization’s response actions, which includes teams of trainers traveling in affected areas of Sierra Leone and Liberiato increase the number of trained, frontline healthcare workers equipped with the skills needed to manage the disease, and also to train communities on prevention. ADDITIONALLY: no fee transfers, and Western Union will match two-for-one employee donations up to $25,000.",
     "Funding":25000,
     "Committed":"Committed",
     "Area":"Region"

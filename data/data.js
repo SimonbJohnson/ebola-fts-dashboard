@@ -282,7 +282,7 @@ var data = [
   {
     "Donor":"Bill and Melinda Gates Foundation",
     "Channel":"International Federation of Red Cross and Red Crescent Societies",
-    "Description":"(REGION) Contribution",
+    "Description":"(Region) Contribution",
     "Funding":3000000,
     "Committed":"Committed",
     "Area":"Region"
@@ -394,10 +394,10 @@ var data = [
   {
     "Donor":"Bill and Melinda Gates Foundation",
     "Channel":"World Health Organization",
-    "Description":"(REGION) Contributions",
+    "Description":"(Region) Contributions",
     "Funding":2985234,
     "Committed":"Committed",
-    "Area":"REGION"
+    "Area":"Region"
   },
   {
     "Donor":"Bolivia",
@@ -922,7 +922,7 @@ var data = [
   {
     "Donor":"Children's Investment Fund Foundation",
     "Channel":"British Red Cross",
-    "Description":"(REGION) to help deal safely with those who have tragically died, to track those who have been in contact with those infected and to raise awareness in vulnerable communities in West Africa about protecting themselves.",
+    "Description":"(Region) to help deal safely with those who have tragically died, to track those who have been in contact with those infected and to raise awareness in vulnerable communities in West Africa about protecting themselves.",
     "Funding":4600000,
     "Committed":"Committed",
     "Area":"Region"
@@ -3218,7 +3218,7 @@ var data = [
   {
     "Donor":"Prudential Financial, Inc.",
     "Channel":"Médecins sans Frontières",
-    "Description":"(REGION) To fight and help control the outbreak in Western Africa",
+    "Description":"(Region) To fight and help control the outbreak in Western Africa",
     "Funding":300000,
     "Committed":"Pledged",
     "Area":"Region"
